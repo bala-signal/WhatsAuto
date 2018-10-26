@@ -224,4 +224,9 @@
     <string name="str_restart_phone">Restart Phone</string>
     <string name="str_restart_desc">Please restart your phone and check it again. If none of these methods works, please contact us.</string>
     <string name="str_group_name">Group Name</string>
+    <string name="str_exact_match_desc"><![CDATA[<b>Exact Match:</b> When you receive a message that exactly matches with your incoming message keyword, the reply message will be send.]]></string>
+    <string name="str_contains_desc"><![CDATA[<b>Contains:</b> When you receive a message that contains your incoming message keyword, the reply message will be send.]]></string>
+    <string name="str_please_wait_loading">Please wait...</string>
+    <string name="str_exact_match">Exact Match</string>
+    <string name="str_contains">Contains</string>
 </resources>
