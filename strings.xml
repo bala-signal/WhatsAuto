@@ -245,4 +245,5 @@
     <string name="str_please_enter_phone_number">Please enter phone number</string>
     <string name="str_message_optional_hint">Message (optional)</string>
     <string name="str_allow_permission_for_contact">Allow permission for contact</string>
+    <string name="str_app_not_installed">App not installed</string>
 </resources>
