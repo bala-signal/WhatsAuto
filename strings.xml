@@ -4,7 +4,6 @@
     <string name="pref_key_contact" translatable="false">pref_contact</string>
     <string name="pref_key_guide" translatable="false">pref_about</string>
     <string name="pref_key_app_info" translatable="false">pref_app_info</string>
-    <string name="str_share">Share</string>
     <string name="str_restart_require">Service not connected, restart your phone.</string>
 
     <!--Google play license!-->
@@ -78,7 +77,7 @@
     <string name="str_delete">Delete</string>
     <string name="str_forward">Forward</string>
     <string name="str_status_deleted">Status deleted</string>
-    <string name="str_whatsapp_not_installed">WhatsApp is not installed in your phone.</string>
+    <string name="str_whatsapp_not_installed">WhatsApp is not appInstalled in your phone.</string>
     <string name="device_logs_details" translatable="false">----- DO NOT ALTER THIS -----\n\nBRAND: %1$s \nMODEL: %2$s \nVERSION: %3$s\nORDER-ID: %4$s\nLANGUAGE: %5$s\n\n----- TYPE YOUR MESSAGE BELOW -----\n</string><!-- String for Ad-mob! -->
     <string name="str_saved_status_delete_all">Delete all</string>
     <string name="str_all_status_deleted">All status deleted</string>
@@ -193,7 +192,7 @@
     <string name="str_send_message_anyone">Send message to anyone without saving their contact</string>
     <string name="str_phone_number">Phone number</string>
     <string name="str_search_country">Search country</string>
-    <string name="str_package_not_installed">%s not installed</string>
+    <string name="str_package_not_installed">%s not appInstalled</string>
     <string name="str_clear_history">Clear History</string>
     <string name="str_enable_groups">Enable Groups</string>
     <string name="str_show_fullscreen">Show fullscreen</string>
@@ -221,7 +220,7 @@
     <string name="str_restart_desc">Please restart your phone and check it again. If none of these methods works, please contact us.</string>
     <string name="str_group_name">Group Name</string>
     <string name="str_exact_match_desc"><![CDATA[<b>Exact Match:</b> The reply message will be sent, when you receive a message that exactly matches with your incoming message keyword.]]></string>
-    <string name="str_contains_desc"><![CDATA[<b>Contains:</b> The reply message will be sent,  when you receive a message that contains your incoming message keyword. You can also add multiple incoming messages seperated by comma (,). Example: Hi, Hey, Hello.]]></string>
+    <string name="str_contains_desc"><![CDATA[<b>Contains:</b> The reply message will be sent,  when you receive a message that contains your incoming message keyword. You can also add multiple incoming messages seperated by comma. Example: Hi, Hey, Hello.]]></string>
     <string name="str_please_wait_loading">Please wait...</string>
     <string name="str_exact_match">Exact Match</string>
     <string name="str_contains">Contains</string>
@@ -241,4 +240,9 @@
     <string name="str_import_description">Import your custom reply messages from (.xls) file.</string>
     <string name="str_importing_loading">Importing</string>
     <string name="str_stickers">Stickers</string>
+    <string name="str_share">Share</string>
+    <string name="str_select_contact">Select contact</string>
+    <string name="str_please_enter_phone_number">Please enter phone number</string>
+    <string name="str_message_optional_hint">Message (optional)</string>
+    <string name="str_allow_permission_for_contact">Allow permission for contact</string>
 </resources>
