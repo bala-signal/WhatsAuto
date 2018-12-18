@@ -10,8 +10,8 @@
     <string name="google_play_license" translatable="false">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmYjQqS5XL/IdiALU7px6ONClIMNxPPEMAxcf74a5xTmmCb4CBKCunwf8HxdBUfQQI0BpDuol5hMqYPDfcbp3t5p2Ig79rLQAZnS9tDZSMwo7spBbE1hiN9RXfNGIFqEAhSxU8VI82uasJNfuycGit13X/cP1wWqHCE2Gz6YcWJcD170ky8bmI7T1s5rZuBOwxZNpIogO+JpHNx6znVVCWwAwpuDqk8hBffvDHcCoX28eMurc1LY63jNccZ/mxUeKmpBcuy2ybMpYjCDi7t28DyRkvxj/W89hGBlfMjJSnFBIC5M0Uoeu/4E+AHaC2JsVBvmJTH46c7Hjf7yb0mGgwQIDAQAB</string>
 
     <!--Admob license !-->
-    <string name="ad_mob_id" translatable="false">ca-app-pub-7957094071465206~5604923627</string>
-    <string name="ad_interstitial_id" translatable="false">ca-app-pub-7957094071465206/9357671654</string>
+    <string name="ad_mob_id" translatable="false">ca-app-pub-4306763343514688~2759148680</string>
+    <string name="ad_interstitial_id" translatable="false">ca-app-pub-4306763343514688/6506822008</string>
 
     <!--Notification channels -->
     <string name="notification_id_Away" translatable="false">1</string>
@@ -246,4 +246,7 @@
     <string name="str_message_optional_hint">Message (optional)</string>
     <string name="str_allow_permission_for_contact">Allow permission for contact</string>
     <string name="str_app_not_installed">App not installed</string>
+    <string name="str_info">Info</string>
+    <string name="str_name">name</string>
+    <string name="str_name_desc">{name} - will be replaced with the name of person who is sending you a message.</string>
 </resources>
