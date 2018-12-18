@@ -247,4 +247,6 @@
     <string name="str_allow_permission_for_contact">Allow permission for contact</string>
     <string name="str_app_not_installed">App not installed</string>
     <string name="str_info">Info</string>
+    <string name="str_name">name</string>
+    <string name="str_name_desc">{name} - will be replaced with the name of person who is sending you a message.</string>
 </resources>
