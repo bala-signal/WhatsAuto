@@ -15,9 +15,9 @@
 
     <!--Notification channels -->
     <string name="notification_id_Away" translatable="false">1</string>
-    <string name="notification_title_Away">Away notification</string>
+    <string name="notification_title_Away" translatable="false">Away notification</string>
     <string name="notification_id_reply" translatable="false">2</string>
-    <string name="notification_title_reply">Auto Reply notification</string>
+    <string name="notification_title_reply" translatable="false">Auto Reply notification</string>
 
     <!--strings-->
     <string name="app_name" translatable="false">Away</string>
@@ -199,8 +199,8 @@
     <string name="str_group_list">Group list</string>
     <string name="str_group_settings">Group Settings</string>
     <string name="group_option_1">All groups</string>
-    <string name="group_option_2">My group list...</string>
-    <string name="group_option_3">Except my group list...</string>
+    <string name="group_option_2">My group list…</string>
+    <string name="group_option_3">Except my group list…</string>
     <string name="str_auto_reply_all_groups">Auto reply to all groups.</string>
     <string name="str_auto_reply_group_list">Add one or more groups to the list.</string>
     <string name="str_type_group_name">Type group name</string>
@@ -226,18 +226,18 @@
     <string name="str_contains">Contains</string>
     <string name="str_export">Export</string>
     <string name="str_import">Import</string>
-    <string name="str_export_description">Export your custom reply messages to your phone\'s storage as (.xls) file. You can restore them whenever you want.</string>
+    <string name="str_export_description">Export your custom reply messages to your phone\'s storage or Google Drive as (.xls) file. You can restore them whenever you want.</string>
     <string name="str_last_export">Last export</string>
     <string name="str_you_do_not_have_any_messages">You do not have any messages to export.</string>
     <string name="str_allow_storage_permission">Please allow storage permission</string>
     <string name="str_clear_all_messages_desc">Are you sure want to clear all custom reply messages ?</string>
-    <string name="str_exporting_loading">Exporting...</string>
+    <string name="str_exporting_loading">Exporting…</string>
     <string name="str_exported">Exported</string>
     <string name="str_custom_reply_messages_exported">Your custom reply messages are successfully exported.</string>
     <string name="str_open">Open</string>
     <string name="str_match_options">Match options</string>
     <string name="str_notification_warning_desc">Auto reply may not work if the notifications are disabled in the android settings. Please click settings and go to notifications in android settings and turn ON notification for your messaging apps.</string>
-    <string name="str_import_description">Import your custom reply messages from (.xls) file.</string>
+    <string name="str_import_description">Import your (.xls) custom reply messages file from your Phone\'s storage or Google Drive.</string>
     <string name="str_importing_loading">Importing</string>
     <string name="str_stickers">Stickers</string>
     <string name="str_share">Share</string>
@@ -248,5 +248,18 @@
     <string name="str_app_not_installed">App not installed</string>
     <string name="str_info">Info</string>
     <string name="str_name">name</string>
-    <string name="str_name_desc">{ %1$s } - will be replaced with the name of person who is sending you a message.</string>
+    <string name="str_name_desc">{%1$s} - will be replaced with the name of person who is sending you a message.</string>
+    <string name="str_phone_storage">Phone</string>
+    <string name="str_google_drive">Drive</string>
+    <string name="str_uploading_to_google_drive">Uploading to Google Drive</string>
+    <string name="str_backup_in_progress">Backup in progress</string>
+    <string name="str_failed">Failed</string>
+    <string name="str_downloading">Downloading</string>
+    <string name="str_downloading_from_drive">Downloading from Google Drive</string>
+    <string name="str_downloading_from_drive_wait">Downloading from google drive, please wait…</string>
+    <string name="str_completed">Completed</string>
+    <string name="str_successfully_completed_drive">Successfully completed with Google Drive</string>
+    <string name="str_licenses">Licenses</string>
+    <string name="str_restore_failed">Restore failed</string>
+    <string name="str_no_backup_found">No backup found</string>
 </resources>
