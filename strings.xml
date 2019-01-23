@@ -215,7 +215,7 @@
     <string name="str_notification_access_desc">1. Click Notification Access button.\n2. Turn OFF and ON Away app in the Notification Access screen.\n3. Automatic reply will work now.\nIf it doesn\'t work please swipe left to try next method.</string>
     <string name="str_not_working">Not Working ?</string>
     <string name="str_app_notification">App Notification</string>
-    <string name="str_app_notification_desc">Please make sure you are getting a notification from the messaging app whenever you receive a new message. Click Settings button and go to Notifications  and turn on notification for your messaging apps.</string>
+    <string name="str_app_notification_desc">Please make sure you are getting a notification from your messaging app such as WhatsApp, Telegram, etc... whenever you receive a new message. Click Settings button and go to Notifications and turn on notification for your messaging apps.</string>
     <string name="str_restart_phone">Restart Phone</string>
     <string name="str_restart_desc">Please restart your phone and check it again. If none of these methods works, please contact us.</string>
     <string name="str_group_name">Group Name</string>
@@ -227,7 +227,7 @@
     <string name="str_export">Export</string>
     <string name="str_import">Import</string>
     <string name="str_export_description">Export your custom reply messages to your phone\'s storage or Google Drive as (.xls) file. You can restore them whenever you want.</string>
-    <string name="str_last_export">Last export</string>
+    <string name="str_last_export">Last export: %1$s</string>
     <string name="str_you_do_not_have_any_messages">You do not have any messages to export.</string>
     <string name="str_allow_storage_permission">Please allow storage permission</string>
     <string name="str_clear_all_messages_desc">Are you sure want to clear all custom reply messages ?</string>
@@ -262,4 +262,16 @@
     <string name="str_licenses">Licenses</string>
     <string name="str_restore_failed">Restore failed</string>
     <string name="str_no_backup_found">No backup found</string>
+    <string name="str_i_have_tried_not_working">I have tried all the methods in \"Not working ?\" screen, still it is not working.</string>
+    <string name="str_i_have_suggestion">I have a suggestion.</string>
+    <string name="str_backup">Backup</string>
+    <string name="str_restore">Restore</string>
+    <string name="str_backup_status_description">Backup your status to Google Drive. Restore them whenever you want.</string>
+    <string name="str_backup_restore">Backup &amp; Restore</string>
+    <string name="str_uploading_status">Uploading Status</string>
+    <string name="str_uploading_status_drive">Uploading status to Google Drive</string>
+    <string name="str_downloading_status">Downloading Status</string>
+    <string name="str_downloading_status_drive">Downloading status from Google Drive</string>
+    <string name="str_no_status_saved_for_backup">No status saved for backup</string>
+    <string name="str_last_backup">Last backup: %1$s</string>
 </resources>
