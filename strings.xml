@@ -274,4 +274,6 @@
     <string name="str_downloading_status_drive">Downloading status from Google Drive</string>
     <string name="str_no_status_saved_for_backup">No status saved for backup</string>
     <string name="str_last_backup">Last backup: %1$s</string>
+    <string name="str_display">Display</string>
+    <string name="str_dark_mode">Dark Mode</string>
 </resources>
