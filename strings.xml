@@ -276,4 +276,11 @@
     <string name="str_last_backup">Last backup: %1$s</string>
     <string name="str_display">Display</string>
     <string name="str_dark_mode">Dark Mode</string>
+    <string name="str_spreadsheet">Spreadsheet</string>
+    <string name="str_spreadsheet_more_info"><![CDATA[<a href="#">Tap here</a> to learn more about creating a spreadsheet in google sheet.]]></string>
+    <string name="str_spreadsheet_desc">Create, edit your custom reply messages with Google Sheet. Tap Sync button to sync your online google spreadsheet messages automatically to this app.</string>
+    <string name="str_uh_no_spreadsheet_found">Uh no... You don\'t have any spreadsheets in your google sheet. Create one and then sync it.</string>
+    <string name="str_attach_screenshot_awayapp_optional">Attach screenshot of AwayApp home screen.</string>
+    <string name="str_add_screenshot_optional">Add screenshot (Optional)</string>
+    <string name="str_you">You</string>
 </resources>
