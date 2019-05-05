@@ -1,19 +1,8 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 
-    <!-- Preference Key !-->
-    <string name="pref_key_contact" translatable="false">pref_contact</string>
-    <string name="pref_key_guide" translatable="false">pref_about</string>
-    <string name="pref_key_app_info" translatable="false">pref_app_info</string>
-    <string name="str_restart_require">Service not connected, restart your phone.</string>
-
-    <!--Google play license!-->
-    <string name="google_play_license" translatable="false">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmYjQqS5XL/IdiALU7px6ONClIMNxPPEMAxcf74a5xTmmCb4CBKCunwf8HxdBUfQQI0BpDuol5hMqYPDfcbp3t5p2Ig79rLQAZnS9tDZSMwo7spBbE1hiN9RXfNGIFqEAhSxU8VI82uasJNfuycGit13X/cP1wWqHCE2Gz6YcWJcD170ky8bmI7T1s5rZuBOwxZNpIogO+JpHNx6znVVCWwAwpuDqk8hBffvDHcCoX28eMurc1LY63jNccZ/mxUeKmpBcuy2ybMpYjCDi7t28DyRkvxj/W89hGBlfMjJSnFBIC5M0Uoeu/4E+AHaC2JsVBvmJTH46c7Hjf7yb0mGgwQIDAQAB</string>
-
     <!--Admob license !-->
     <string name="facebook_app_id" translatable="false">399896357228053</string>
-    <string name="facebook_interestitial_placement_id" translatable="false">399896357228053_400267797190909</string>
-    <string name="facebook_native_ad_custom_text" translatable="false">399896357228053_403123580238664</string>
-    <string name="facebook_native_banner_home_page" translatable="false">399896357228053_403183840232638</string>
+    <string name="facebook_native_banner_home_page" translatable="false">399896357228053_417215795496109</string>
 
     <!--Notification channels -->
     <string name="notification_id_WhatsAuto" translatable="false">1</string>
@@ -29,6 +18,7 @@
     <string name="string_auto_reply_off">Auto reply OFF</string>
     <string name="string_auto_reply_on">Auto reply ON</string>
     <string name="string_auto_reply_text">Auto reply text</string>
+    <string name="str_restart_require">Service not connected, restart your phone.</string>
     <string name="str_default_status">Hey there! I am using WhatsAuto App.</string>
     <string name="str_select_status_text">Select your text</string>
     <string name="str_auto_reply_only_to">Auto reply to</string>
@@ -46,7 +36,7 @@
     <string name="play_store_link" translatable="false">https://play.google.com/store/apps/details?id=com.guibais.whatsauto</string>
     <string name="str_checkout_WhatsAuto">Hi, did you know?\nYou can send automatic reply to incoming messages to any social messaging apps, when you\'re busy, it\'s free today for download.\nCheck this out!\n</string>
     <string name="srt_thank_you_sharing">Thank you for sharing!.</string>
-    <string name="str_ok">Ok</string>
+    <string name="str_ok">OK</string>
     <string name="str_how_to_use">How to use</string>
     <string name="str_next">Next</string>
     <string name="str_stpes_count">Step %1$d</string>
@@ -59,7 +49,7 @@
     <string name="str_about">About</string>
     <string name="str_contact_us">Contact Us</string>
     <string name="str_app_info">App info</string>
-    <string name="desc_contact">Questions? Need help?</string>
+    <string name="desc_contact">Contact support team.</string>
     <string name="desc_how_to_use">Learn how to use the app.</string>
     <string name="str_version">Version %1$s</string>
     <string name="str_continue">Continue</string>
@@ -109,8 +99,8 @@
     <string name="default_status_6">At work, text you later.</string>
     <string name="default_status_7">In a meeting, text you later.</string>
     <string name="contact_options_1">Everyone</string>
-    <string name="contact_options_2">My contact list...</string>
-    <string name="contact_options_3">Except my contact list...</string>
+    <string name="contact_options_2">My contact list…</string>
+    <string name="contact_options_3">Except my contact list…</string>
     <string name="steps_desc_1">Turn ON Auto-reply.</string>
     <string name="steps_desc_2">Set the auto-reply message.</string>
     <string name="steps_desc_3">Whenever you receive message notification message, it will reply automatically.</string>
@@ -128,7 +118,7 @@
     <string name="str_time_delay">Time Delay</string>
     <string name="str_upgrade_premium">Upgrade to Premium</string>
     <string name="str_buy_premium">Buy Premium</string>
-    <string name="str_premium_desc"><![CDATA[- Say goodbye to <b>Ads</b> forever.<br>- Enjoy all benefits of <b>premium features.</b> <br>- <b>24/7</b> customer support.]]></string>
+    <string name="str_premium_desc"><![CDATA[- Say goodbye to <b>Ads</b> forever.<br>- Automatic turn <b>ON/OFF</b> feature.<br>- <b>Backup and restore</b> your custom reply messages to online drive.<br>- Automatic <b>sheet sync</b> feature.<br>- Driving mode.<br>- <b>24/7</b> customer support.]]></string>
     <string name="str_upgrade">Upgrade</string>
     <string name="str_feature_available_for_premium_users">This feature is available only for premium users, upgrade to premium version now and enjoy access to this feature.</string>
     <string name="str_thank_purchasing_whatsauto">Thank you for purchasing WhatsAuto app. You\'re now a premium user. Enjoy all benefits of premium features.</string>
@@ -149,8 +139,8 @@
     <string name="str_app_lock_will_not_work_screen_none">App lock will not work if your phone pattern/pin/password is set to none.</string>
     <string name="str_congratualtions_one_day_premium_user">Congratulations! You\'re now premium user for one day.</string>
     <string name="str_reply_time">Reply Time</string>
-    <string name="str_reply_continously">Reply Continously</string>
-    <string name="str_reply_continously_desc">Reply continously to the same person/group. Don\'t wait for %1$d minutes.</string>
+    <string name="str_reply_continously">Reply Continuously</string>
+    <string name="str_reply_continously_desc">Reply continuously to the same person/group. Don\'t wait for %1$d minutes.</string>
     <string name="str_premium">Premium</string>
     <string name="str_update_WhatsAuto">Update WhatsAuto app</string>
     <string name="str_obsolete_desc">This version of WhatsAuto app become obsolete. Please go to the Google Play Store to download the latest version.</string>
@@ -177,7 +167,7 @@
     <string name="str_whats_new">What\'s New</string>
     <string name="str_note_only_custom_reply_text">If you want to send only custom reply messages, set this text to empty.</string>
     <string name="str_custom_reply_bracket">(Custom reply)</string>
-    <string name="str_search">Search...</string>
+    <string name="str_search">Search…</string>
     <string name="str_deleted">Deleted</string>
     <string name="str_undo">Undo</string>
     <string name="str_update_app">Update App</string>
@@ -203,22 +193,22 @@
     <string name="str_type_group_name">Type group name</string>
     <string name="str_case_insensitive">(Case insensitive)</string>
     <string name="str_describe_problem_suggestion">Please describe your problem/suggestion</string>
-    <string name="str_custom_reply_works_desc"><![CDATA[When you set the incoming message as <b>Good morning</b>, it will match with all cases. <br/>For example: <br/>1. Hi <b>Good morning</b> to you <br/>2. Hi, how are you <b>good morning</b> <br/>and so on...]]></string>
+    <string name="str_custom_reply_works_desc"><![CDATA[When you set the incoming message as <b>Good morning</b>, it will match with all cases. <br/>For example: <br/>1. Hi <b>Good morning</b> to you <br/>2. Hi, how are you <b>good morning</b> <br/>and so on…]]></string>
     <string name="str_whats_new_title_direct_message">Introducing Direct Message</string>
     <string name="str_whats_new_title_support_groups">Support for Groups</string>
     <string name="str_whats_new_desc_direct_message">Now you can send message directly to anyone without saving their contact.</string>
     <string name="str_whats_new_desc_support_groups">Now it will send auto reply messages to groups.\nYou can also customize the groups in group settings.</string>
     <string name="str_notification_access">Notification Access</string>
     <string name="str_notification_access_desc">1. Click Notification Access button.\n2. Turn OFF and ON WhatsAuto app in the Notification Access screen.\n3. Automatic reply will work now.\nIf it doesn\'t work please swipe left to try next method.</string>
-    <string name="str_not_working">Not Working ?</string>
+    <string name="str_not_working">Not Working?</string>
     <string name="str_app_notification">App Notification</string>
-    <string name="str_app_notification_desc">Please make sure you are getting a notification from your messaging app such as WhatsApp, Telegram, etc... whenever you receive a new message. Click Settings button and go to Notifications and turn on notification for your messaging apps.</string>
+    <string name="str_app_notification_desc">Please make sure you are getting a notification from your messaging app such as WhatsApp, Telegram, etc… whenever you receive a new message. Click Settings button and go to Notifications and turn on notification for your messaging apps.</string>
     <string name="str_restart_phone">Restart Phone</string>
     <string name="str_restart_desc">Please restart your phone and check it again. If none of these methods works, please contact us.</string>
     <string name="str_group_name">Group Name</string>
     <string name="str_exact_match_desc"><![CDATA[<b>Exact Match:</b> The reply message will be sent, when you receive a message that exactly matches with your incoming message keyword.]]></string>
-    <string name="str_contains_desc"><![CDATA[<b>Contains:</b> The reply message will be sent,  when you receive a message that contains your incoming message keyword. You can also add multiple incoming messages seperated by comma. Example: Hi, Hey, Hello.]]></string>
-    <string name="str_please_wait_loading">Please wait...</string>
+    <string name="str_contains_desc"><![CDATA[<b>Contains:</b> The reply message will be sent,  when you receive a message that contains your incoming message keyword. You can also add multiple incoming messages separated by comma. Example: Hi, Hey, Hello.]]></string>
+    <string name="str_please_wait_loading">Please wait…</string>
     <string name="str_exact_match">Exact Match</string>
     <string name="str_contains">Contains</string>
     <string name="str_export">Export</string>
@@ -276,14 +266,14 @@
     <string name="str_spreadsheet">Spreadsheet</string>
     <string name="str_spreadsheet_more_info"><![CDATA[<a href="#">Tap here</a> to learn more about creating a spreadsheet in google sheet.]]></string>
     <string name="str_spreadsheet_desc">Create, edit your custom reply messages with Google Sheet. Tap Sync button to sync your online google spreadsheet messages automatically to this app.</string>
-    <string name="str_uh_no_spreadsheet_found">Uh no... You don\'t have any spreadsheets in your google sheet. Create one and then sync it.</string>
+    <string name="str_uh_no_spreadsheet_found">Uh no… You don\'t have any spreadsheets in your google sheet. Create one and then sync it.</string>
     <string name="str_attach_screenshot_WhatsAutoapp_optional">Attach screenshot of WhatsAutoApp home screen.</string>
     <string name="str_add_screenshot_optional">Add screenshot (Optional)</string>
     <string name="str_you">You</string>
     <string name="str_new_version_available">New version of WhatsAuto is available, update the app now.</string>
     <string name="str_congratulations">Congratulations!</string>
     <string name="str_sync">Sync</string>
-    <string name="str_syncing">Syncing...</string>
+    <string name="str_syncing">Syncing…</string>
     <string name="str_last_sync">Last sync: %1$s</string>
     <string name="str_spreadsheet_empty">Spreadsheet is empty</string>
     <string name="str_contact_developer_exception">Please contact support team (%1$s)</string>
@@ -296,4 +286,17 @@
     <string name="str_synced_messages">Synced messages</string>
     <string name="str_no_synced_messages_available">There are no synced messages available.</string>
     <string name="str_no_longer_status">Hi, we no longer support status feature, you can find all your saved status in your file manager under WhatsAuto folder.</string>
+    <string name="str_automatically_sync_everyday">Automatically sync everyday</string>
+    <string name="str_questions_need_help">Questions? Need help?</string>
+    <string name="str_community_support">Community Support</string>
+    <string name="str_not_working_1">1. Click Notification Access button below, you will be navigate to notification access screen.</string>
+    <string name="str_not_working_2">2. Turn OFF and ON WhatsAuto in the notification access screen.</string>
+    <string name="str_not_working_3">3. Auto reply should work now, if still not working, try next step.</string>
+    <string name="str_not_working_4">1. Make sure you are getting a notification from your messaging apps like the image below whenever someone sends you an message.</string>
+    <string name="str_not_working_5">2. Auto reply will work only if you get notifications from your messaging apps. If you\'re not getting notifications, please go to android settings -> Notifications -> find your messaging app and enable notifications, make sure notification is not blocked.</string>
+    <string name="str_not_working_6">1. Restart your phone and check the auto reply, it should work now or else contact support or ask the community users about your issue.</string>
+    <string name="str_not_working_7">2. Please note that Auto Reply will not work if you\'re chatting with that person.</string>
+    <string name="str_step_1">Step 1</string>
+    <string name="str_step_2">Step 2</string>
+    <string name="str_step_3">Step 3</string>
 </resources>
