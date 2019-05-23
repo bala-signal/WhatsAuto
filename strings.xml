@@ -2,7 +2,7 @@
 
     <!--Admob license !-->
     <string name="facebook_app_id" translatable="false">399896357228053</string>
-    <string name="facebook_native_banner_home_page" translatable="false">399896357228053_417215795496109</string>
+    <string name="facebook_native_banner_home_page" translatable="false">399896357228053_418708552013500</string>
 
     <!--Notification channels -->
     <string name="notification_id_WhatsAuto" translatable="false">1</string>
@@ -114,7 +114,7 @@
     <string name="str_type_reply_message">Type your reply message</string>
     <string name="str_message_cant_empty">Message can\'t be empty!</string>
     <string name="str_smart_reply">Smart Reply</string>
-    <string name="str_time_delay_desc">Don\'t reply continuously to the same person/group. Wait %1$d minutes for the next auto reply.</string>
+    <string name="str_time_delay_desc">Don\'t reply continuously to the same person/group. Wait %1$s for the next auto reply.</string>
     <string name="str_time_delay">Time Delay</string>
     <string name="str_upgrade_premium">Upgrade to Premium</string>
     <string name="str_buy_premium">Buy Premium</string>
@@ -131,7 +131,7 @@
     <string name="str_security">Security</string>
     <string name="str_app_lock_desc">Secure access to WhatsAuto app by using the same Pattern/PIN/Password you use to unlock your phone.</string>
     <string name="str_reply_once">Reply Once</string>
-    <string name="str_reply_once_desc">Reply only one time to the same person/group until you turn ON next time.</string>
+    <string name="str_reply_once_desc">Reply only one time to the same person/group until you turn auto reply ON next time.</string>
     <string name="str_free_premium">Free Premium</string>
     <string name="str_WhatsAuto_security">WhatsAuto Security</string>
     <string name="str_use_your_phone_pattern_to_unlock">Use your phone pattern/pin/password to unlock.</string>
@@ -140,7 +140,7 @@
     <string name="str_congratualtions_one_day_premium_user">Congratulations! You\'re now premium user for one day.</string>
     <string name="str_reply_time">Reply Time</string>
     <string name="str_reply_continously">Reply Continuously</string>
-    <string name="str_reply_continously_desc">Reply continuously to the same person/group. Don\'t wait for %1$d minutes.</string>
+    <string name="str_reply_continously_desc">Reply continuously to the same person/group. Don\'t delay in sending reply.</string>
     <string name="str_premium">Premium</string>
     <string name="str_update_WhatsAuto">Update WhatsAuto app</string>
     <string name="str_obsolete_desc">This version of WhatsAuto app become obsolete. Please go to the Google Play Store to download the latest version.</string>
@@ -284,7 +284,7 @@
     <string name="str_syncing_spreadsheet">Syncing spreadsheet</string>
     <string name="str_please_sync_manually">Please sync manually first</string>
     <string name="str_synced_messages">Synced messages</string>
-    <string name="str_no_synced_messages_available">There are no synced messages available.</string>
+    <string name="str_no_synced_messages_available">There are no synced messages.</string>
     <string name="str_no_longer_status">Hi, we no longer support status feature, you can find all your saved status in your file manager under WhatsAuto folder.</string>
     <string name="str_automatically_sync_everyday">Automatically sync everyday</string>
     <string name="str_questions_need_help">Questions? Need help?</string>
@@ -299,4 +299,10 @@
     <string name="str_step_1">Step 1</string>
     <string name="str_step_2">Step 2</string>
     <string name="str_step_3">Step 3</string>
+    <string name="str_num_message_synced">%1$d messages synced</string>
+    <string name="str_2_minutes">2 Minutes</string>
+    <string name="str_5_minutes">5 Minutes</string>
+    <string name="str_15_minutes">15 Minutes</string>
+    <string name="str_30_minutes">30 Minutes</string>
+    <string name="str_1_hour">1 Hour</string>
 </resources>
