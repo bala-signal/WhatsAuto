@@ -1,8 +1,12 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 
-    <!--Admob license !-->
+    <!--Admob license!-->
+    <string name="admob_app_id" translatable="false">ca-app-pub-9510828685498412~3815950414</string>
+    <string name="admob_interstitial_ad" translatable="false">ca-app-pub-9510828685498412/5439969370</string>
+
+    <!--facebook license !-->
     <string name="facebook_app_id" translatable="false">399896357228053</string>
-    <string name="facebook_native_banner_home_page" translatable="false">399896357228053_418708552013500</string>
+    <string name="facebook_native_banner_home_page" translatable="false">399896357228053_435292797021742</string>
 
     <!--Notification channels -->
     <string name="notification_id_WhatsAuto" translatable="false">1</string>
@@ -21,7 +25,7 @@
     <string name="str_restart_require">Service not connected, restart your phone.</string>
     <string name="str_default_status">Hey there! I am using WhatsAuto App.</string>
     <string name="str_select_status_text">Select your text</string>
-    <string name="str_auto_reply_only_to">Auto reply to</string>
+    <string name="str_auto_reply_to">Auto reply to</string>
     <string name="str_contact_list">Contact list</string>
     <string name="str_auto_reply_everyone">Auto reply to Everyone.</string>
     <string name="str_add_more_contact">Add one or more contact to the list.</string>
@@ -305,4 +309,17 @@
     <string name="str_15_minutes">15 Minutes</string>
     <string name="str_30_minutes">30 Minutes</string>
     <string name="str_1_hour">1 Hour</string>
+    <string name="contact_option_4">Except my phone contacts</string>
+    <string name="str_auto_reply_everyone_except_phone_contact">Auto reply to everyone except your phone contacts.</string>
+    <string name="str_auto_reply_to_desc"><![CDATA[<b>Everyone</b> - To send auto reply to all your incoming messages.<br><b>My contact list</b> - To send auto reply only to your contact list you\'ve added in WhatsAuto app.<br><b>Except my contact list</b> - To send auto reply except your WhatsAuto contact list.<br><b>Except my phone contacts</b> - To send auto reply except your phone contact list.]]></string>
+    <string name="str_chat_support">Chat Support</string>
+    <string name="str_chat_support_summary">Chat with customer support</string>
+    <string name="str_ad">Ad</string>
+    <string name="str_search_contact">Search contact</string>
+    <string name="str_phone_idle_desc">Turn ON automatically when the phone screen is locked and idle.</string>
+    <string name="str_phone_idle">Phone Idle</string>
+    <string name="str_driving_mode">Driving Mode</string>
+    <string name="str_driving_mode_desc">Turn ON automatically when driving.</string>
+    <string name="str_select_all">Select All</string>
+    <string name="str_unselect_all">Unselect All</string>
 </resources>
