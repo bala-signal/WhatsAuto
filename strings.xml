@@ -7,6 +7,7 @@
     <!--facebook license !-->
     <string name="facebook_app_id" translatable="false">399896357228053</string>
     <string name="facebook_native_banner_home_page" translatable="false">399896357228053_435292797021742</string>
+    <string name="facebook_banner_ad" translatable="false">399896357228053_438818916669130</string>
 
     <!--Notification channels -->
     <string name="notification_id_WhatsAuto" translatable="false">1</string>
