@@ -238,7 +238,7 @@
     <string name="str_app_not_installed">App not installed</string>
     <string name="str_info">Info</string>
     <string name="str_name">name</string>
-    <string name="str_name_desc">{%1$s} - will be replaced with the name of person who is sending you a message.</string>
+    <string name="str_name_desc">{%1$s} - will be replaced with the name of the person who is sending you a message.</string>
     <string name="str_phone_storage">Phone</string>
     <string name="str_google_drive">Drive</string>
     <string name="str_uploading_to_google_drive">Uploading to Google Drive</string>
@@ -351,4 +351,17 @@
     <string name="str_automatic_spreadsheet_sync">Automatic spreadsheet sync</string>
     <string name="str_24_7_customer_support">24/7 Customer support</string>
     <string name="str_congratualtions_you_premium_user">Congratulations! You\'re a premium user.</string>
+    <string name="str_get_lifetime_premium_access">Get Lifetime Premium Access</string>
+    <string name="str_create_your_chatbot">Create your own chatbot easily.</string>
+    <string name="str_welcome_message">Welcome Message</string>
+    <string name="str_send_only_custom_reply_message">Send only custom reply messages. Do not send the above message.</string>
+    <string name="str_incoming_keyword">Incoming Keyword</string>
+    <string name="str_example_incoming_keyword">Example: Hi, how are you</string>
+    <string name="str_example_reply_message">Example: Hi I am good.</string>
+    <string name="str_send_welcome_message_first_time">Send a welcome message when someone messages you the first time.</string>
+    <string name="str_send_welcome_message_desc">Send a welcome message when someone messages you the first time or %1$s once.</string>
+    <string name="str_send_welcome_message">Send welcome message</string>
+    <string name="str_change_days">Change days</string>
+    <string name="str_every_n_days">Every %1$d days</string>
+    <string name="str_default_welcome_message">Welcome, thank you for contacting me. I\'ll get back to you shortly.</string>
 </resources>
