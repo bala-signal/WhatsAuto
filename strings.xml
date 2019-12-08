@@ -46,9 +46,7 @@
     <string name="str_next">Next</string>
     <string name="str_stpes_count">Step %1$d</string>
     <string name="str_clear_all">Clear All</string>
-    <string name="str_rate_app">Rate app</string>
-    <string name="str_rate_playstore">Rate this app in Play Store now !</string>
-    <string name="str_rate">Rate</string>
+    <string name="str_rate_app">Rate this app</string>
     <string name="market_details_id" translatable="false">market://details?id=</string>
     <string name="title_activity_settings">Settings</string>
     <string name="str_about">About</string>
@@ -238,7 +236,7 @@
     <string name="str_app_not_installed">App not installed</string>
     <string name="str_info">Info</string>
     <string name="str_name">name</string>
-    <string name="str_name_desc">{%1$s} - will be replaced with the name of the person who is sending you a message.</string>
+    <string name="str_name_desc"><![CDATA[<b>{%1$s}</b> - will be replaced with the name of the person sending you a message.<br><br><b>{%2$s}</b> - will be replaced with the first name of the person sending you a message.<br><br><b>{%3$s}</b> - will be replaced with the last name of the person sending you a message.]]></string>
     <string name="str_phone_storage">Phone</string>
     <string name="str_google_drive">Drive</string>
     <string name="str_uploading_to_google_drive">Uploading to Google Drive</string>
@@ -294,10 +292,10 @@
     <string name="str_not_working_1">1. Click Notification Access button below, you will be navigate to notification access screen.</string>
     <string name="str_not_working_2">2. Turn OFF and ON WhatsAuto in the notification access screen.</string>
     <string name="str_not_working_3">3. Auto reply should work now, if still not working, try next step.</string>
-    <string name="str_not_working_4">1. Make sure you are getting a notification from your messaging apps like the image below whenever someone send you a message.</string>
-    <string name="str_not_working_5">2. Auto reply will work only if you get notifications from your messaging apps. If you\'re not getting notifications, please go to android settings -> Notifications -> find your messaging app and enable notifications, make sure notification is not blocked.</string>
+    <string name="str_not_working_4">1. Make sure you are getting a notification from your messaging apps like the image below whenever someone sends you a message.</string>
+    <string name="str_not_working_5">2. Auto reply will work only if you get notifications from your messaging apps. If you\'re not getting notifications, click settings button below and find your messaging app and enable notifications, make sure notification is not blocked.</string>
     <string name="str_not_working_6">1. Restart your phone and check the auto reply, it should work now or else contact support or ask the community users about your issue.</string>
-    <string name="str_not_working_7">2. Please note that Auto Reply will not work if you\'re chatting with that person.</string>
+    <string name="str_not_working_7">2. Please note that Auto Reply will not work if you\'re chatting with that person or the chat is muted.</string>
     <string name="str_step_1">Step 1</string>
     <string name="str_step_2">Step 2</string>
     <string name="str_step_3">Step 3</string>
@@ -336,7 +334,7 @@
     <string name="str_step_4">Step 4</string>
     <string name="str_battery_optimize">Battery optimize</string>
     <string name="str_not_working_8">1. Sometimes working and sometimes not? then click battery optimize button below -> All apps -> disable WhatsAuto app.</string>
-    <string name="str_not_working_9">2. If you have any energy saver app, please disable for this app.</string>
+    <string name="str_not_working_9">2. If you have any energy saver app or background restriction app, please disable for this app.</string>
     <string name="str_for_better_performance_disable_optimization">For better performance please disable battery optimization for WhatsAuto app. Click battery optimize -> All apps -> disable WhatsAuto app.</string>
     <string name="str_not_working_10">3. If you have more than 10 unread conversations in your messaging app, please make sure to mark all of them as read.</string>
     <string name="str_everyday">Everyday</string>
@@ -354,7 +352,7 @@
     <string name="str_get_lifetime_premium_access">Get Lifetime Premium Access</string>
     <string name="str_create_your_chatbot">Create your own chatbot easily.</string>
     <string name="str_welcome_message">Welcome Message</string>
-    <string name="str_send_only_custom_reply_message">Send only custom reply messages. Do not send the above message.</string>
+    <string name="str_send_only_custom_reply_message">Send only custom reply messages. Do not send the above default auto reply message.</string>
     <string name="str_incoming_keyword">Incoming Keyword</string>
     <string name="str_example_incoming_keyword">Example: Hi, how are you</string>
     <string name="str_example_reply_message">Example: Hi I am good.</string>
@@ -363,5 +361,21 @@
     <string name="str_send_welcome_message">Send welcome message</string>
     <string name="str_change_days">Change days</string>
     <string name="str_every_n_days">Every %1$d days</string>
-    <string name="str_default_welcome_message">Welcome, thank you for contacting me. I\'ll get back to you shortly.</string>
+    <string name="str_default_welcome_message">Welcome, thank you for contacting me, I will get back to you shortly.</string>
+    <string name="str_sample">Hello bala, how are you? %1$s good to see you</string>
+    <string name="str_not_working_2_3">3. Xiaomi phone users please enable auto start for this app in your android settings.</string>
+    <string name="str_choose_spreadsheet">Choose Spreadsheet</string>
+    <string name="str_more_options">More options</string>
+    <string name="str_first_name">first name</string>
+    <string name="str_last_name">last name</string>
+    <string name="str_rate_now">Rate now</string>
+    <string name="str_ratings_desc">If you enjoy using this app, please take a moment to help us by rating it.</string>
+    <string name="str_later">Later</string>
+    <string name="str_video_tutorials">Video tutorials</string>
+    <string name="youtube_notworking_1" translatable="false">https://www.youtube.com/watch?v=hDXpjUsLjFo</string>
+    <string name="youtube_notworking_2" translatable="false">https://www.youtube.com/watch?v=Sv_NRtQ3NaU</string>
+    <string name="youtube_notworking_3" translatable="false">https://www.youtube.com/watch?v=n-xNKElR59k</string>
+    <string name="str_is_whatsauto_not_working">Is WhatsAuto app not working?</string>
+    <string name="str_watch_video_tutorials">Watch video tutorials</string>
+    <string name="str_upgrade_to_premium">Upgrade to premium</string>
 </resources>
