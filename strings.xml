@@ -196,7 +196,6 @@
     <string name="str_type_group_name">Type group name</string>
     <string name="str_case_insensitive">(Case insensitive)</string>
     <string name="str_describe_problem_suggestion">Please describe your problem/suggestion</string>
-    <string name="str_custom_reply_works_desc"><![CDATA[When you set the incoming message as <b>Good morning</b>, it will match with all cases. <br/>For example: <br/>1. Hi <b>Good morning</b> to you <br/>2. Hi, how are you <b>good morning</b> <br/>and so on…]]></string>
     <string name="str_whats_new_title_direct_message">Introducing Direct Message</string>
     <string name="str_whats_new_title_support_groups">Support for Groups</string>
     <string name="str_whats_new_desc_direct_message">Now you can send message directly to anyone without saving their contact.</string>
@@ -295,7 +294,7 @@
     <string name="str_not_working_4">1. Make sure you are getting a notification from your messaging apps like the image below whenever someone sends you a message.</string>
     <string name="str_not_working_5">2. Auto reply will work only if you get notifications from your messaging apps. If you\'re not getting notifications, click settings button below and find your messaging app and enable notifications, make sure notification is not blocked.</string>
     <string name="str_not_working_6">1. Restart your phone and check the auto reply, it should work now or else contact support or ask the community users about your issue.</string>
-    <string name="str_not_working_7">2. Please note that Auto Reply will not work if you\'re chatting with that person or the chat is muted.</string>
+    <string name="str_not_working_7">2. Please note that Auto Reply will not work if you are chatting with that person or the chat is muted.</string>
     <string name="str_step_1">Step 1</string>
     <string name="str_step_2">Step 2</string>
     <string name="str_step_3">Step 3</string>
@@ -347,7 +346,6 @@
     <string name="str_cloud_backup">Cloud backup</string>
     <string name="str_automatic_turn_on">Automatic Turn On</string>
     <string name="str_automatic_spreadsheet_sync">Automatic spreadsheet sync</string>
-    <string name="str_24_7_customer_support">24/7 Customer support</string>
     <string name="str_congratualtions_you_premium_user">Congratulations! You\'re a premium user.</string>
     <string name="str_get_lifetime_premium_access">Get Lifetime Premium Access</string>
     <string name="str_create_your_chatbot">Create your own chatbot easily.</string>
@@ -362,7 +360,6 @@
     <string name="str_change_days">Change days</string>
     <string name="str_every_n_days">Every %1$d days</string>
     <string name="str_default_welcome_message">Welcome, thank you for contacting me, I will get back to you shortly.</string>
-    <string name="str_sample">Hello bala, how are you? %1$s good to see you</string>
     <string name="str_not_working_2_3">3. Xiaomi phone users please enable auto start for this app in your android settings.</string>
     <string name="str_choose_spreadsheet">Choose Spreadsheet</string>
     <string name="str_more_options">More options</string>
@@ -378,4 +375,10 @@
     <string name="str_is_whatsauto_not_working">Is WhatsAuto app not working?</string>
     <string name="str_watch_video_tutorials">Watch video tutorials</string>
     <string name="str_upgrade_to_premium">Upgrade to premium</string>
+    <string name="str_statistics">Statistics</string>
+    <string name="str_auto_reply_messages_sent">Auto reply messages sent</string>
+    <string name="str_reply_messages">Reply messages</string>
+    <string name="str_no_reply_message_found_statistics">No reply messages found for statistics</string>
+    <string name="str_to_view_all_recipients_upgrade">This is a premium feature, to view all the recipients of this reply message, upgrade to premium.</string>
+    <string name="str_we_donot_store_statistics_information">We do not collect any of your statistics information, all the informations are stored locally in your phone.</string>
 </resources>
