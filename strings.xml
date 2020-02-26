@@ -338,7 +338,7 @@
     <string name="str_not_working_10">3. If you have more than 10 unread conversations in your messaging app, please make sure to mark all of them as read.</string>
     <string name="str_everyday">Everyday</string>
     <string name="str_custom_schedule">Custom schedule</string>
-    <string name="str_automatic_turn_summary_everyday">At %1$s Everyday</string>
+    <string name="str_automatic_turn_summary">At %1$s on %2$s</string>
     <string name="str_only_for_lifetime"><![CDATA[Only <b>%1$s</b> for lifetime.]]></string>
     <string name="str_whatsauto_premium">WhatsAuto Premium</string>
     <string name="str_upgrade_now">Upgrade Now</string>
@@ -381,4 +381,7 @@
     <string name="str_no_reply_message_found_statistics">No reply messages found for statistics</string>
     <string name="str_to_view_all_recipients_upgrade">This is a premium feature, to view all the recipients of this reply message, upgrade to premium.</string>
     <string name="str_we_donot_store_statistics_information">We do not collect any of your statistics information, all the informations are stored locally in your phone.</string>
+    <string name="str_reset">Reset</string>
+    <string name="str_reset_confirm_message">Are you sure want to reset statistics?</string>
+    <string name="str_repeat">Repeat</string>
 </resources>
