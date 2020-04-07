@@ -126,8 +126,7 @@
     <string name="str_feature_available_for_premium_users">This feature is available only for premium users, upgrade to premium version now and enjoy access to this feature.</string>
     <string name="str_thank_purchasing_whatsauto">Thank you for purchasing WhatsAuto app. You\'re now a premium user. Enjoy all benefits of premium features.</string>
     <string name="str_premium_user">Premium user</string>
-    <string name="str_remove_auto_reply">Remove Auto Reply</string>
-    <string name="str_remove_auto_reply_desc">Remove Auto Reply header text in the reply message.</string>
+    <string name="str_remove_auto_reply_desc">Remove Auto Reply header text from the reply message.</string>
     <string name="str_smart_reply_desc">Customize the auto reply time.</string>
     <string name="str_free_trail">Free Trail</string>
     <string name="str_app_lock_password">App Lock Password</string>
@@ -261,7 +260,7 @@
     <string name="str_downloading_status_drive">Downloading status from Google Drive</string>
     <string name="str_no_status_saved_for_backup">No status saved for backup</string>
     <string name="str_display">Display</string>
-    <string name="str_dark_mode">Dark Mode</string>
+    <string name="str_night_mode">Night Mode</string>
     <string name="str_spreadsheet">Spreadsheet</string>
     <string name="str_spreadsheet_more_info"><![CDATA[<a href="#">Tap here</a> to learn more about creating a spreadsheet in google sheet.]]></string>
     <string name="str_spreadsheet_desc">Create, edit your custom reply messages with Google Sheet. Tap Sync button to sync your online google spreadsheet messages automatically to this app.</string>
@@ -334,7 +333,7 @@
     <string name="str_battery_optimize">Battery optimize</string>
     <string name="str_not_working_8">1. Sometimes working and sometimes not? then click battery optimize button below -> All apps -> disable WhatsAuto app.</string>
     <string name="str_not_working_9">2. If you have any energy saver app or background restriction app, please disable for this app.</string>
-    <string name="str_for_better_performance_disable_optimization">For better performance please disable battery optimization for WhatsAuto app. Click battery optimize -> All apps -> disable WhatsAuto app.</string>
+    <string name="str_phones_like_will_stop_app_disable_background_restriction">Phones like %1$s will stop the app working after sometimes, please go to android settings and disable background restriction or any battery saver for WhatsAuto app.</string>
     <string name="str_not_working_10">3. If you have more than 10 unread conversations in your messaging app, please make sure to mark all of them as read.</string>
     <string name="str_everyday">Everyday</string>
     <string name="str_custom_schedule">Custom schedule</string>
@@ -369,9 +368,9 @@
     <string name="str_ratings_desc">If you enjoy using this app, please take a moment to help us by rating it.</string>
     <string name="str_later">Later</string>
     <string name="str_video_tutorials">Video tutorials</string>
-    <string name="youtube_notworking_1" translatable="false">https://www.youtube.com/watch?v=hDXpjUsLjFo</string>
-    <string name="youtube_notworking_2" translatable="false">https://www.youtube.com/watch?v=Sv_NRtQ3NaU</string>
-    <string name="youtube_notworking_3" translatable="false">https://www.youtube.com/watch?v=n-xNKElR59k</string>
+    <string name="youtube_notworking_1">https://youtu.be/hDXpjUsLjFo</string>
+    <string name="youtube_notworking_2">https://youtu.be/Sv_NRtQ3NaU</string>
+    <string name="youtube_notworking_3">https://youtu.be/n-xNKElR59k</string>
     <string name="str_is_whatsauto_not_working">Is WhatsAuto app not working?</string>
     <string name="str_watch_video_tutorials">Watch video tutorials</string>
     <string name="str_upgrade_to_premium">Upgrade to premium</string>
@@ -384,4 +383,6 @@
     <string name="str_reset">Reset</string>
     <string name="str_reset_confirm_message">Are you sure want to reset statistics?</string>
     <string name="str_repeat">Repeat</string>
+    <string name="str_remove_reply_header">Remove Reply Header</string>
+    <string name="str_allow_permission_physical_activity">Please allow permission for Physical activity</string>
 </resources>
