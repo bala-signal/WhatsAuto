@@ -407,7 +407,7 @@
     <string name="str_no_reply_parameter_found_in_response">No \"reply\" parameter found in the response.</string>
     <string name="str_server_response_success">Server response success</string>
     <string name="str_error">Error</string>
-    <string name="str_sending_request_url_name">\n\nSending request....... %s</string>
+    <string name="str_sending_request">Sending request.......</string>
     <string name="str_save">Save</string>
     <string name="str_configure_server_url_get_reply">Configure your server URL to get a reply for incoming messages.</string>
     <string name="str_server_reply_tag">(Server reply)</string>
