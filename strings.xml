@@ -286,7 +286,7 @@
     <string name="str_no_longer_status">Hi, we no longer support status feature, you can find all your saved status in your file manager under WhatsAuto folder.</string>
     <string name="str_sync_automatically">Sync automatically %1$s</string>
     <string name="str_questions_need_help">Questions? Need help?</string>
-    <string name="str_community_support">Community Support</string>
+    <string name="str_community">Community</string>
     <string name="str_not_working_1">1. Click Notification Access button below, you will be navigate to notification access screen.</string>
     <string name="str_not_working_2">2. Turn OFF and ON WhatsAuto in the notification access screen.</string>
     <string name="str_not_working_3">3. Auto reply should work now, if still not working, try next step.</string>
@@ -416,4 +416,14 @@
     <string name="str_dashboard">Dashboard</string>
     <string name="str_menu">Menu</string>
     <string name="str_please_configure_your_server">Please configure your server</string>
+    <string name="str_every_15_minutes">every 15 minutes</string>
+    <string name="str_restricted">Restricted</string>
+    <string name="str_you_are_using_unofficial_version">You are using an Unofficial version of WhatsAuto app, please download the official app from play store or contact support@whatsauto.app.</string>
+    <string name="str_learn_more">Learn more</string>
+    <string name="str_join_our_telegram_community">Join our Telegram commnity</string>
+    <string name="str_follow_us_on_twitter">Follow us on Twitter</string>
+    <string name="str_join_our_facebook_community">Join our Facebook community</string>
+    <string name="str_official_facebook_page">Official Facebook Page</string>
+    <string name="str_join_our_whatsapp_group">Join our WhatsApp group</string>
+    <string name="str_follow_us_on_instagram">Follow us on Instagram</string>
 </resources>
