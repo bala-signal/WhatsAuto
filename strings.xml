@@ -15,6 +15,9 @@
     <string name="notification_id_reply" translatable="false">2</string>
     <string name="notification_title_reply" translatable="false">Auto Reply notification</string>
 
+    <!-- firebase -->
+    <string name="web_client" translatable="false">1095768985568-qljljht281e3k73499640qe433je6l11.apps.googleusercontent.com</string>
+
     <!--strings-->
     <string name="app_name" translatable="false">WhatsAuto</string>
     <string name="string_turn_off">TURN OFF</string>
@@ -54,7 +57,7 @@
     <string name="str_app_info">App info</string>
     <string name="desc_contact">Contact support team.</string>
     <string name="desc_how_to_use">Learn how to use the app.</string>
-    <string name="str_version">Version %1$s</string>
+    <string name="str_version">Version</string>
     <string name="str_continue">Continue</string>
     <string name="str_not_now">Not now</string>
     <string name="str_contact_permission">To see incoming message notification, allow WhatsAuto app to access to your contact list.</string>
@@ -426,4 +429,7 @@
     <string name="str_official_facebook_page">Official Facebook Page</string>
     <string name="str_join_our_whatsapp_group">Join our WhatsApp group</string>
     <string name="str_follow_us_on_instagram">Follow us on Instagram</string>
+    <string name="str_hi_user_name">Hi, %s</string>
+    <string name="str_last_opened">Last opened %s</string>
+    <string name="str_request_parameters">Request parameters</string>
 </resources>
