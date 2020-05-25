@@ -432,4 +432,10 @@
     <string name="str_hi_user_name">Hi, %s</string>
     <string name="str_last_opened">Last opened %s</string>
     <string name="str_request_parameters">Request parameters</string>
+    <string name="str_system_default">System default</string>
+    <string name="str_reply_options">Reply options</string>
+    <string name="str_server_reply_title">Server Reply</string>
+    <string name="str_custom_reply_title">Custom Reply</string>
+    <string name="str_custom_reply_time">Custom Reply Time</string>
+    <string name="str_send_custom_reply_message_continously">Send custom reply messages continously</string>
 </resources>
