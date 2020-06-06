@@ -414,7 +414,7 @@
     <string name="str_save">Save</string>
     <string name="str_configure_server_url_get_reply">Configure your server URL to get a reply for incoming messages.</string>
     <string name="str_server_reply_tag">(Server reply)</string>
-    <string name="str_get_reply_from_server">Send incoming messages to your server and get a reply.</string>
+    <string name="str_send_incoming_to_server_get_reply">Send incoming messages to your server and get a reply.</string>
     <string name="str_turn_off_on_messaging_apps">Turn off or on messaging apps to send auto reply.</string>
     <string name="str_dashboard">Dashboard</string>
     <string name="str_menu">Menu</string>
@@ -438,4 +438,8 @@
     <string name="str_custom_reply_title">Custom Reply</string>
     <string name="str_custom_reply_time">Custom Reply Time</string>
     <string name="str_send_custom_reply_message_continously">Send custom reply messages continously</string>
+    <string name="str_get_reply_from_server">Get reply from server</string>
+    <string name="str_tags">Tags</string>
+    <string name="str_log_out">Log Out</string>
+    <string name="str_confirm_log_out">Are you sure want to log out of %s ?</string>
 </resources>
