@@ -3,6 +3,7 @@
     <!--Admob license!-->
     <string name="admob_app_id" translatable="false">ca-app-pub-9510828685498412~3815950414</string>
     <string name="admob_interstitial_ad" translatable="false">ca-app-pub-9510828685498412/5439969370</string>
+    <string name="admob_native_ad" translatable="false">ca-app-pub-9510828685498412/9765550167</string>
 
     <!--facebook license !-->
     <string name="facebook_app_id" translatable="false">399896357228053</string>
@@ -228,7 +229,6 @@
     <string name="str_notification_warning_desc">Auto reply may not work if the notifications are disabled in the android settings. Please click settings and go to notifications in android settings and turn ON notification for your messaging apps.</string>
     <string name="str_restore_description">Restore your (.xls) custom reply messages file from your Phone\'s storage or Google Drive.</string>
     <string name="str_restoring">Restoring</string>
-    <string name="str_stickers">Stickers</string>
     <string name="str_share">Share</string>
     <string name="str_select_contact">Select contact</string>
     <string name="str_please_enter_phone_number">Please enter phone number</string>
@@ -262,13 +262,12 @@
     <string name="str_downloading_status">Downloading Status</string>
     <string name="str_downloading_status_drive">Downloading status from Google Drive</string>
     <string name="str_no_status_saved_for_backup">No status saved for backup</string>
-    <string name="str_display">Display</string>
     <string name="str_night_mode">Night Mode</string>
     <string name="str_spreadsheet">Spreadsheet</string>
     <string name="str_spreadsheet_more_info"><![CDATA[<a href="#">Tap here</a> to learn more about creating a spreadsheet in google sheet.]]></string>
     <string name="str_spreadsheet_desc">Create, edit your custom reply messages with Google Sheet. Tap Sync button to sync your online google spreadsheet messages automatically to this app.</string>
     <string name="str_uh_no_spreadsheet_found">Uh no… You don\'t have any spreadsheets in your google sheet. Create one and then sync it.</string>
-    <string name="str_attach_screenshot_WhatsAutoapp_optional">Attach screenshot of WhatsAutoApp home screen.</string>
+    <string name="str_attach_screenshot_WhatsAutoapp_optional">Attach screenshot of WhatsAuto app home screen.</string>
     <string name="str_add_screenshot_optional">Add screenshot (Optional)</string>
     <string name="str_you">You</string>
     <string name="str_new_version_available">New version of WhatsAuto is available, update the app now.</string>
@@ -429,7 +428,7 @@
     <string name="str_official_facebook_page">Official Facebook Page</string>
     <string name="str_join_our_whatsapp_group">Join our WhatsApp group</string>
     <string name="str_follow_us_on_instagram">Follow us on Instagram</string>
-    <string name="str_hi_user_name">Hi, %s</string>
+    <string name="str_hi">Hi</string>
     <string name="str_last_opened">Last opened %s</string>
     <string name="str_request_parameters">Request parameters</string>
     <string name="str_system_default">System default</string>
@@ -442,4 +441,6 @@
     <string name="str_tags">Tags</string>
     <string name="str_log_out">Log Out</string>
     <string name="str_confirm_log_out">Are you sure want to log out of %s ?</string>
+    <string name="str_faq">FAQ</string>
+    <string name="str_have_you_read_our_faq">Have you read our FAQ yet?</string>
 </resources>
