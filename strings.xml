@@ -443,4 +443,6 @@
     <string name="str_confirm_log_out">Are you sure want to log out of %s ?</string>
     <string name="str_faq">FAQ</string>
     <string name="str_have_you_read_our_faq">Have you read our FAQ yet?</string>
+    <string name="str_automatic_on_settings_summary">Schedule time, driving mode.</string>
+    <string name="str_smart_reply_settings_summary">Time delay, reply once, continously.</string>
 </resources>
