@@ -213,8 +213,8 @@
     <string name="str_restart_phone">Restart Phone</string>
     <string name="str_restart_desc">Please restart your phone and check it again. If none of these methods works, please contact us.</string>
     <string name="str_group_name">Group Name</string>
-    <string name="str_exact_match_desc"><![CDATA[<b>Exact Match:</b> The reply message will be sent, when you receive a message that exactly matches with your incoming message keyword.]]></string>
-    <string name="str_contains_desc"><![CDATA[<b>Contains:</b> The reply message will be sent,  when you receive a message that contains your incoming message keyword. You can also add multiple incoming messages separated by comma. Example: Hi, Hey, Hello.]]></string>
+    <string name="str_exact_match_desc"><![CDATA[<b>Exact Match:</b> The reply message will be sent when you receive a message that exactly matches your incoming message keyword. You can add multiple incoming messages separated by a comma. Example: One, Two, Three]]></string>
+    <string name="str_contains_desc"><![CDATA[<b>Contains:</b> The reply message will be sent when you receive a message that contains your incoming message keyword. You can also add multiple incoming messages separated by a comma. Example: Hi, Hey, Hello.]]></string>
     <string name="str_please_wait_loading">Please wait…</string>
     <string name="str_exact_match">Exact Match</string>
     <string name="str_contains">Contains</string>
@@ -223,7 +223,7 @@
     <string name="str_you_do_not_have_any_messages">You do not have any messages to backup.</string>
     <string name="str_allow_storage_permission">Please allow storage permission</string>
     <string name="str_clear_all_messages_desc">Are you sure want to clear all custom reply messages ?</string>
-    <string name="str_taking_backup">Taking Backup...</string>
+    <string name="str_taking_backup">Taking Backup…</string>
     <string name="str_backed_up">Backed up</string>
     <string name="str_custom_reply_messages_backed_up">Your custom reply messages are successfully backed up.</string>
     <string name="str_open">Open</string>
@@ -458,6 +458,8 @@
     <string name="str_you_set_time_delay_wait">You have set a time delay for auto-reply, please wait for some time.</string>
     <string name="str_you_set_reply_once_turn_off_on">You have set an auto-reply to reply once, turn off and on auto-reply to send again.</string>
     <string name="str_no_reply_found_check_keyword">No reply message found, please check your incoming message keyword.</string>
-    <string name="str_server_response_doesnt_reply_value">Server response doesn\'t contain \"reply\" value.</string>
+    <string name="str_server_response_doesnt_reply_value">The server response doesn\'t contain \"reply\" value.</string>
     <string name="str_you_can_test_auto_reply">Hi! You can test your auto-reply by sending a message to this chat.</string>
+    <string name="str_test_reply">Test Reply</string>
+    <string name="str_test_your_auto_reply_simulation">Test your auto-reply message with this simulation tool.</string>
 </resources>
