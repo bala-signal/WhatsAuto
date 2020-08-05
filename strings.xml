@@ -15,6 +15,8 @@
     <string name="notification_title_WhatsAuto" translatable="false">WhatsAuto notification</string>
     <string name="notification_id_reply" translatable="false">2</string>
     <string name="notification_title_reply" translatable="false">Auto Reply notification</string>
+    <string name="notification_id_test_reply" translatable="false">3</string>
+    <string name="notification_title_test_reply" translatable="false">Test reply notification</string>
 
     <!-- firebase -->
     <string name="web_client" translatable="false">1095768985568-qljljht281e3k73499640qe433je6l11.apps.googleusercontent.com</string>
@@ -445,4 +447,17 @@
     <string name="str_have_you_read_our_faq">Have you read our FAQ yet?</string>
     <string name="str_automatic_on_settings_summary">Schedule time, driving mode.</string>
     <string name="str_smart_reply_settings_summary">Time delay, reply once, continously.</string>
+    <string name="str_order_id">Order id</string>
+    <string name="str_type_a_message">Type a message</string>
+    <string name="str_today">Today</string>
+    <string name="str_reply">Reply</string>
+    <string name="str_report_id">Report Id</string>
+    <string name="str_copied_to_clipboard">Copied to Clipboard</string>
+    <string name="str_auto_reply_off_turn_on">Auto-reply is off, please turn it On</string>
+    <string name="str_please_change_contact_list_everyone">Please change your contact option to send auto-reply to Everyone or add WhatsAuto to your contact list.</string>
+    <string name="str_you_set_time_delay_wait">You have set a time delay for auto-reply, please wait for some time.</string>
+    <string name="str_you_set_reply_once_turn_off_on">You have set an auto-reply to reply once, turn off and on auto-reply to send again.</string>
+    <string name="str_no_reply_found_check_keyword">No reply message found, please check your incoming message keyword.</string>
+    <string name="str_server_response_doesnt_reply_value">Server response doesn\'t contain \"reply\" value.</string>
+    <string name="str_you_can_test_auto_reply">Hi! You can test your auto-reply by sending a message to this chat.</string>
 </resources>
