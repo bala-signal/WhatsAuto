@@ -4,6 +4,7 @@
     <string name="admob_app_id" translatable="false">ca-app-pub-9510828685498412~3815950414</string>
     <string name="admob_interstitial_ad" translatable="false">ca-app-pub-9510828685498412/5439969370</string>
     <string name="admob_native_ad" translatable="false">ca-app-pub-9510828685498412/9765550167</string>
+    <string name="admob_rewarded_ad" translatable="false">ca-app-pub-9510828685498412/5437752299</string>
 
     <!--facebook license !-->
     <string name="facebook_app_id" translatable="false">399896357228053</string>
@@ -462,4 +463,46 @@
     <string name="str_you_can_test_auto_reply">Hi! You can test your auto-reply by sending a message to this chat.</string>
     <string name="str_test_reply">Test Reply</string>
     <string name="str_test_your_auto_reply_simulation">Test your auto-reply message with this simulation tool.</string>
+    <string name="str_dialogflow_account">Dialogflow account</string>
+    <string name="str_connect_dialogflow_to_whatsauto">Connect your Dialogflow agent to WhatsAuto.</string>
+    <string name="str_dialogflow">Dialogflow</string>
+    <string name="str_project_id">Project ID</string>
+    <string name="str_find_your_dialogflow_project_id_settings">Find your Dialogflow project ID in Dialogflow general settings.</string>
+    <string name="str_language_code">Language code</string>
+    <string name="str_find_language_dialogflow_settings">Find language in Dialogflow languages settings.</string>
+    <string name="str_connect_your_dialogflow_account">Please connect your Dialogflow account.</string>
+    <string name="str_please_enter_dialogflow_project_id">Please enter Dialogflow project ID.</string>
+    <string name="str_please_enter_dialogflow_language_code">Please enter your Dialogflow language code.</string>
+    <string name="dialogflow_reply_tag" translatable="false">(Dialogflow reply)</string>
+    <string name="str_dialogflow_reply">Dialogflow Reply</string>
+    <string name="str_send_incoming_message_to_dialogflow_get_reply">Send incoming messages to your Dialogflow agent and get a reply.</string>
+    <string name="str_please_configure_dialogflow_account">Please configure your Dialogflow account.</string>
+    <string name="str_no_response_for_text">No response for the text</string>
+    <string name="str_dialogflow_error">Dialogflow error</string>
+    <string name="str_reply_header">Reply Header</string>
+    <string name="str_reply_tags">Reply Tags</string>
+    <string name="str_the_name_will_replace_with_name_of_person">The name will be replaced with the name of the person sending you a message.</string>
+    <string name="str_first_name_replace_with_name_of_person">The first name will be replaced with the first name of the person sending you a message.</string>
+    <string name="str_last_name_replace_with_last_name_person">The last name will be replaced with the last name of the person sending you a message.</string>
+    <string name="str_whatsauto_statistics">WhatsAuto Statistics</string>
+    <string name="str_total_auto_reply_messages_sent">Total auto-reply messages sent</string>
+    <string name="str_do_you_want_to_save_statistics_message_pdf">Do you want to save this statistics messages as PDF?</string>
+    <string name="str_pdf_saved_successfully">PDF saved successfully</string>
+    <string name="str_save_as_pdf">Save as PDF</string>
+    <string name="str_statistics_detailed_report">Statistics detailed report</string>
+    <string name="str_export_statistics_report">Export statistics report</string>
+    <string name="str_customize_reply_message_header">Customize the reply message header.</string>
+    <string name="str_download_statistics_or_watch_free_ads">To download your statistics report upgrade to premium or watch free Ad.</string>
+    <string name="str_try_for_free">Try for free</string>
+    <string name="str_download_as_pdf">Download as PDF</string>
+    <string name="str_download_as_csv">Download as CSV</string>
+    <string name="str_csv_saved_successfully">CSV report saved successfully</string>
+    <string name="str_number_of_times_sent">Number of times sent</string>
+    <string name="str_number_of_persons_sent">Number of persons sent</string>
+    <string name="str_date">Date</string>
+    <string name="str_sent_to">Sent to</string>
+    <string name="str_time">Time</string>
+    <string name="str_something_wrong_contact_support">Something went wrong, please contact support team.</string>
+    <string name="str_account_type_colon">Account type:</string>
+    <string name="str_free">Free</string>
 </resources>
