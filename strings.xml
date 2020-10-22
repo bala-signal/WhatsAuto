@@ -3,8 +3,9 @@
     <!--Admob license!-->
     <string name="admob_app_id" translatable="false">ca-app-pub-9510828685498412~3815950414</string>
     <string name="admob_interstitial_ad" translatable="false">ca-app-pub-9510828685498412/5439969370</string>
-    <string name="admob_native_ad" translatable="false">ca-app-pub-9510828685498412/9765550167</string>
+    <string name="admob_native_home_screen" translatable="false">ca-app-pub-9510828685498412/9765550167</string>
     <string name="admob_rewarded_ad" translatable="false">ca-app-pub-9510828685498412/5437752299</string>
+    <string name="admob_native_menu_screen" translatable="false">ca-app-pub-9510828685498412/6771986432</string>
 
     <!--facebook license !-->
     <string name="facebook_app_id" translatable="false">399896357228053</string>
@@ -124,7 +125,7 @@
     <string name="str_type_reply_message">Type your reply message</string>
     <string name="str_message_cant_empty">Message can\'t be empty!</string>
     <string name="str_smart_reply">Smart Reply</string>
-    <string name="str_time_delay_desc">Don\'t reply continuously to the same person/group. Wait %1$s for the next auto reply.</string>
+    <string name="str_time_delay_desc">Don\'t send a reply immediately to the same person/group. Wait for %1$s for the next auto-reply.</string>
     <string name="str_time_delay">Time Delay</string>
     <string name="str_upgrade_premium">Upgrade to Premium</string>
     <string name="str_buy_premium">Buy Premium</string>
@@ -140,7 +141,7 @@
     <string name="str_security">Security</string>
     <string name="str_app_lock_desc">Secure access to WhatsAuto app by using the same Pattern/PIN/Password you use to unlock your phone.</string>
     <string name="str_reply_once">Reply Once</string>
-    <string name="str_reply_once_desc">Reply only one time to the same person/group until you turn auto reply ON next time.</string>
+    <string name="str_reply_once_desc">Reply only once to the same person/group until you turn ON auto-reply next time.</string>
     <string name="str_free_premium">Free Premium</string>
     <string name="str_WhatsAuto_security">WhatsAuto Security</string>
     <string name="str_use_your_phone_pattern_to_unlock">Use your phone pattern/pin/password to unlock.</string>
@@ -149,7 +150,7 @@
     <string name="str_congratualtions_one_day_premium_user">Congratulations! You\'re now premium user for one day.</string>
     <string name="str_reply_time">Reply Time</string>
     <string name="str_reply_continously">Reply Continuously</string>
-    <string name="str_reply_continously_desc">Reply continuously to the same person/group. Don\'t delay in sending reply.</string>
+    <string name="str_dont_delay_summary">Reply immediately to the same person/group. Don\'t delay in sending auto-reply.</string>
     <string name="str_premium">Premium</string>
     <string name="str_update_WhatsAuto">Update WhatsAuto app</string>
     <string name="str_obsolete_desc">This version of WhatsAuto app become obsolete. Please go to the Google Play Store to download the latest version.</string>
@@ -174,7 +175,6 @@
     <string name="str_schedule_time">Schedule time</string>
     <string name="str_skip">Skip</string>
     <string name="str_whats_new">What\'s New</string>
-    <string name="str_note_only_custom_reply_text">If you want to send only custom reply messages, set this text to empty.</string>
     <string name="str_custom_reply_tag">(Custom reply)</string>
     <string name="str_search">Search…</string>
     <string name="str_deleted">Deleted</string>
@@ -354,7 +354,7 @@
     <string name="str_get_lifetime_premium_access">Get Lifetime Premium Access</string>
     <string name="str_create_your_chatbot">Create your own chatbot easily.</string>
     <string name="str_welcome_message">Welcome Message</string>
-    <string name="str_send_only_custom_reply_message">Send only custom reply messages. Do not send the above default auto reply message.</string>
+    <string name="str_send_only_custom_reply_message">Send only custom reply or spreadsheet messages. Do not send the above default auto-reply message.</string>
     <string name="str_incoming_keyword">Incoming Keyword</string>
     <string name="str_example_incoming_keyword">Example: Hi, how are you</string>
     <string name="str_example_reply_message">Example: Hi I am good.</string>
@@ -370,7 +370,6 @@
     <string name="str_first_name">first name</string>
     <string name="str_last_name">last name</string>
     <string name="str_rate_now">Rate now</string>
-    <string name="str_ratings_desc">If you enjoy using this app, please take a moment to help us by rating it.</string>
     <string name="str_later">Later</string>
     <string name="str_video_tutorials">Video tutorials</string>
     <string name="str_is_whatsauto_not_working">Is WhatsAuto app not working?</string>
@@ -439,7 +438,7 @@
     <string name="str_server_reply_title">Server Reply</string>
     <string name="str_custom_reply_title">Custom Reply</string>
     <string name="str_custom_reply_time">Custom Reply Time</string>
-    <string name="str_send_custom_reply_message_continously">Send custom reply messages continously</string>
+    <string name="str_send_custom_reply_message_immediately">Send custom reply messages immediately.</string>
     <string name="str_get_reply_from_server">Get reply from server</string>
     <string name="str_tags">Tags</string>
     <string name="str_log_out">Log Out</string>
@@ -447,7 +446,7 @@
     <string name="str_faq">FAQ</string>
     <string name="str_have_you_read_our_faq">Have you read our FAQ yet?</string>
     <string name="str_automatic_on_settings_summary">Schedule time, driving mode.</string>
-    <string name="str_smart_reply_settings_summary">Time delay, reply once, continously.</string>
+    <string name="str_smart_reply_settings_summary">Time delay, once, no delay.</string>
     <string name="str_order_id">Order id</string>
     <string name="str_type_a_message">Type a message</string>
     <string name="str_today">Today</string>
@@ -505,4 +504,9 @@
     <string name="str_something_wrong_contact_support">Something went wrong, please contact support team.</string>
     <string name="str_account_type_colon">Account type:</string>
     <string name="str_free">Free</string>
+    <string name="str_thanks_for_your_rating">Thanks for rating us.</string>
+    <string name="str_if_you_enjoy_using_this_app_please_take_a_moment_to_help_us_by_rating_it">If you enjoy using this app, please take a moment to help us by rating it.</string>
+    <string name="str_please_rate_us_on_play_store">Please rate us on Play Store</string>
+    <string name="str_time_delay_category_summary">Don\'t delay, time delay, reply once.</string>
+    <string name="str_dont_delay">Don\'t Delay</string>
 </resources>
