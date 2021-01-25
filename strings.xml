@@ -352,9 +352,9 @@
     <string name="str_automatic_spreadsheet_sync">Automatic spreadsheet sync</string>
     <string name="str_congratualtions_you_premium_user">Congratulations! You\'re a premium user.</string>
     <string name="str_get_lifetime_premium_access">Get Lifetime Premium Access</string>
-    <string name="str_create_your_chatbot">Create your own chatbot easily.</string>
+    <string name="str_create_your_chatbot">Create your own chatbot by customising incoming and reply messages.</string>
     <string name="str_welcome_message">Welcome Message</string>
-    <string name="str_send_only_custom_reply_message">Send only custom reply or spreadsheet messages. Do not send the above default auto-reply message.</string>
+    <string name="str_send_only_custom_reply_message">Send only custom, follow-up, spreadsheet messages. Do not send the above default auto-reply message.</string>
     <string name="str_incoming_keyword">Incoming Keyword</string>
     <string name="str_example_incoming_keyword">Example: Hi, how are you</string>
     <string name="str_example_reply_message">Example: Hi I am good.</string>
@@ -415,8 +415,8 @@
     <string name="str_save">Save</string>
     <string name="str_configure_server_url_get_reply">Configure your server URL to get a reply for incoming messages.</string>
     <string name="str_server_reply_tag">(Server reply)</string>
-    <string name="str_send_incoming_to_server_get_reply">Send incoming messages to your server and get a reply.</string>
-    <string name="str_turn_off_on_messaging_apps">Turn off or on messaging apps to send auto reply.</string>
+    <string name="str_send_incoming_to_server_get_reply">Send all incoming messages to your server and get a reply.</string>
+    <string name="str_turn_off_on_messaging_apps">Turn on or off messaging apps to send auto reply.</string>
     <string name="str_dashboard">Dashboard</string>
     <string name="str_menu">Menu</string>
     <string name="str_please_configure_your_server">Please configure your server</string>
@@ -474,7 +474,7 @@
     <string name="str_please_enter_dialogflow_language_code">Please enter your Dialogflow language code.</string>
     <string name="dialogflow_reply_tag" translatable="false">(Dialogflow reply)</string>
     <string name="str_dialogflow_reply">Dialogflow Reply</string>
-    <string name="str_send_incoming_message_to_dialogflow_get_reply">Send incoming messages to your Dialogflow agent and get a reply.</string>
+    <string name="str_send_incoming_message_to_dialogflow_get_reply">Send all incoming messages to your Dialogflow agent and get a reply.</string>
     <string name="str_please_configure_dialogflow_account">Please configure your Dialogflow account.</string>
     <string name="str_no_response_for_text">No response for the text</string>
     <string name="str_dialogflow_error">Dialogflow error</string>
@@ -520,4 +520,22 @@
     <string name="str_is_your_messaging_enabled_in_supported_apps">Is your messaging app is enabled in the supported apps in the WhatsAuto?\n\nPlease make sure your messaging app is enabled in the supported apps in WhatsAuto.</string>
     <string name="str_go_to_notification_access_enable_disable_whatsauto">1. Click the notification access button below. \n2. Turn OFF and ON WhatsAuto in the notification access screen like the image below. \n3. Now test the auto-reply it should work now.</string>
     <string name="str_one_time_payment">One time payment</string>
+    <string name="str_send_reply_based_previous_message">Send a reply based on the previous reply message.</string>
+    <string name="str_menu_reply">Menu Reply</string>
+    <string name="str_menu_reply_desc">Menu-based chatbot. Create a list of menus to send it as an auto-reply.</string>
+    <string name="str_create_menu">Create menu</string>
+    <string name="str_list">List</string>
+    <string name="str_create_menu_message_list_below">Create a menu message and list below.\n1. List option. \n2. List option. \n3. List option.</string>
+    <string name="str_are_you_sure_delete">Are you sure want to delete</string>
+    <string name="str_add_list">Add List</string>
+    <string name="str_edit">Edit</string>
+    <string name="str_are_you_sure_delete_everything">Are you sure want to delete everything?</string>
+    <string name="str_sub_menu">Sub-menu</string>
+    <string name="str_create_sub_menu">Create sub-menu</string>
+    <string name="str_are_you_sure_delete_sub_menu">Are you sure want to delete this sub-menu?</string>
+    <string name="str_deleting">Deleting....</string>
+    <string name="str_menu_reply_tag">(Menu Reply)</string>
+    <string name="str_send_list_menus_as_reply_message">Send a list of menus as a reply message.</string>
+    <string name="str_no_sub_menu_found_check_keyword">No sub-menu found.</string>
+    <string name="str_local_backup">Local backup</string>
 </resources>
