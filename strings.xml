@@ -538,4 +538,6 @@
     <string name="str_send_list_menus_as_reply_message">Send a list of menus as a reply message.</string>
     <string name="str_no_sub_menu_found_check_keyword">No sub-menu found.</string>
     <string name="str_local_backup">Local backup</string>
+    <string name="youtube_menu_reply_link">https://youtu.be/Tz_obv9JJ2Y</string>
+    <string name="str_watch_video">Watch video</string>
 </resources>
