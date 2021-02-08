@@ -354,7 +354,7 @@
     <string name="str_get_lifetime_premium_access">Get Lifetime Premium Access</string>
     <string name="str_create_your_chatbot">Create your own chatbot by customising incoming and reply messages.</string>
     <string name="str_welcome_message">Welcome Message</string>
-    <string name="str_send_only_custom_reply_message">Send only custom, follow-up, spreadsheet messages. Do not send the above default auto-reply message.</string>
+    <string name="str_send_only_custom_reply_message">Send only custom reply and spreadsheet messages.</string>
     <string name="str_incoming_keyword">Incoming Keyword</string>
     <string name="str_example_incoming_keyword">Example: Hi, how are you</string>
     <string name="str_example_reply_message">Example: Hi I am good.</string>
@@ -438,7 +438,7 @@
     <string name="str_server_reply_title">Server Reply</string>
     <string name="str_custom_reply_title">Custom Reply</string>
     <string name="str_custom_reply_time">Custom Reply Time</string>
-    <string name="str_send_custom_reply_message_immediately">Send custom reply messages immediately.</string>
+    <string name="str_send_custom_reply_message_immediately">Send custom reply, sub-menu reply and spreadsheet messages immediately.</string>
     <string name="str_get_reply_from_server">Get reply from server</string>
     <string name="str_tags">Tags</string>
     <string name="str_log_out">Log Out</string>
@@ -540,4 +540,6 @@
     <string name="str_local_backup">Local backup</string>
     <string name="youtube_menu_reply_link">https://youtu.be/Tz_obv9JJ2Y</string>
     <string name="str_watch_video">Watch video</string>
+    <string name="str_current_date_send_as_auto_reply">The current date will be sent as an auto-reply.</string>
+    <string name="str_current_time_send_as_auto_reply">The current time will be sent as an auto-reply.</string>
 </resources>
