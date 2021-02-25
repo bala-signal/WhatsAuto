@@ -542,4 +542,13 @@
     <string name="str_watch_video">Watch video</string>
     <string name="str_current_date_send_as_auto_reply">The current date will be sent as an auto-reply.</string>
     <string name="str_current_time_send_as_auto_reply">The current time will be sent as an auto-reply.</string>
+    <string name="str_backup_successful">Backup successful</string>
+    <string name="str_menu_reply_backup_completed_successfully">Menu reply backup completed successfully.</string>
+    <string name="str_backup_failed">Backup failed</string>
+    <string name="str_restore_from_phone">Restore from phone</string>
+    <string name="str_restore_from_cloud">Restore from cloud</string>
+    <string name="str_restore_in_progress">Restore in progress</string>
+    <string name="str_menu_reply_restore_completed_successfully">Menu reply restore completed successfully.</string>
+    <string name="str_restore_successful">Restore successful</string>
+    <string name="str_unlimited_menu_reply">Unlimited Menu Reply</string>
 </resources>
