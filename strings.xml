@@ -6,6 +6,7 @@
     <string name="admob_native_home_screen" translatable="false">ca-app-pub-9510828685498412/9765550167</string>
     <string name="admob_rewarded_ad" translatable="false">ca-app-pub-9510828685498412/5437752299</string>
     <string name="admob_native_menu_screen" translatable="false">ca-app-pub-9510828685498412/6771986432</string>
+    <string name="admob_open_ads" translatable="false">ca-app-pub-9510828685498412/4143094642</string>
 
     <!--facebook license !-->
     <string name="facebook_app_id" translatable="false">399896357228053</string>
@@ -551,4 +552,5 @@
     <string name="str_menu_reply_restore_completed_successfully">Menu reply restore completed successfully.</string>
     <string name="str_restore_successful">Restore successful</string>
     <string name="str_unlimited_menu_reply">Unlimited Menu Reply</string>
+    <string name="str_upgraded_menu_reply_version_please_delete_create_new">We have upgraded a menu reply version. For better performance please delete your old menu reply messages and create a new one.</string>
 </resources>
