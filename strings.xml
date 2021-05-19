@@ -7,6 +7,7 @@
     <string name="admob_rewarded_ad" translatable="false">ca-app-pub-9510828685498412/5437752299</string>
     <string name="admob_native_menu_screen" translatable="false">ca-app-pub-9510828685498412/6771986432</string>
     <string name="admob_open_ads" translatable="false">ca-app-pub-9510828685498412/4143094642</string>
+    <string name="admob_native_auto_reply_text" translatable="false">ca-app-pub-9510828685498412/2427123067</string>
 
     <!--facebook license !-->
     <string name="facebook_app_id" translatable="false">399896357228053</string>
@@ -39,7 +40,7 @@
     <string name="str_contact_list">Contact list</string>
     <string name="str_auto_reply_everyone">Auto reply to Everyone.</string>
     <string name="str_add_more_contact">Add one or more contact to the list.</string>
-    <string name="str_add">Add List</string>
+    <string name="str_add">Add</string>
     <string name="str_cancel">Cancel</string>
     <string name="str_done">Done</string>
     <string name="str_turn_on_notification_permission">Turn ON notification for WhatsAuto app.</string>
@@ -87,8 +88,8 @@
     <string name="str_are_you_sure">Are you sure ?</string>
     <string name="str_alert_message_1">This will delete all your saved status.</string>
     <string name="str_you_new_message">%1$d new message.</string>
-    <string name="str_WhatsAuto_on">WhatsAuto ON</string>
-    <string name="str_WhatsAuto_off">WhatsAuto OFF</string>
+    <string name="str_WhatsAuto_on">Auto Reply ON</string>
+    <string name="str_WhatsAuto_off">Auto Reply OFF</string>
     <string name="str_automatic">Automatic</string>
     <string name="str_automatic_on">Automatic On</string>
     <string name="str_automatic_desc">Schedule time to turn WhatsAuto app automatically on or off.</string>
@@ -126,7 +127,7 @@
     <string name="str_type_reply_message">Type your reply message</string>
     <string name="str_message_cant_empty">Message can\'t be empty!</string>
     <string name="str_smart_reply">Smart Reply</string>
-    <string name="str_time_delay_desc">Don\'t send a reply immediately to the same person/group. Wait for %1$s for the next auto-reply.</string>
+    <string name="str_time_delay_desc">Don\'t send a reply immediately. Wait for %1$s for the next auto-reply.</string>
     <string name="str_time_delay">Time Delay</string>
     <string name="str_upgrade_premium">Upgrade to Premium</string>
     <string name="str_buy_premium">Buy Premium</string>
@@ -151,7 +152,7 @@
     <string name="str_congratualtions_one_day_premium_user">Congratulations! You\'re now premium user for one day.</string>
     <string name="str_reply_time">Reply Time</string>
     <string name="str_reply_continously">Reply Continuously</string>
-    <string name="str_dont_delay_summary">Reply immediately to the same person/group. Don\'t delay in sending auto-reply.</string>
+    <string name="str_dont_delay_summary">Reply immediately. Don\'t delay in sending auto-reply.</string>
     <string name="str_premium">Premium</string>
     <string name="str_update_WhatsAuto">Update WhatsAuto app</string>
     <string name="str_obsolete_desc">This version of WhatsAuto app become obsolete. Please go to the Google Play Store to download the latest version.</string>
@@ -339,7 +340,7 @@
     <string name="str_not_working_8">1. Sometimes working and sometimes not? then click battery optimize button below -> All apps -> disable WhatsAuto app.</string>
     <string name="str_not_working_9">2. If you have any energy saver app or background restriction app, please disable for this app.</string>
     <string name="str_phones_like_will_stop_app_disable_background_restriction">⭑ Phones like %s may stop the app working after some time, please go to the android settings and allow the WhatsAuto app to run in the background and disable all the background restriction and battery optimisation for the WhatsAuto app.\n\n⭑ If you need step by step instructions, please visit https://dontkillmyapp.com and look for your device name and follow the steps.</string>
-    <string name="str_some_phones_may_stop_app_background">Some phones may stop the WhatsAuto app from working in the background, \n\n1. Please go to the WhatsAuto android settings. \n2. Allow the WhatsAuto app to run in the background and disable all the background restriction and battery optimisation for the WhatsAuto app.</string>
+    <string name="str_some_phones_may_stop_app_background">Some phones may stop the WhatsAuto app from working in the background. \n\n1. Click settings button below to go to the WhatsAuto android settings. \n2. Then click the Advanced option in the WhatsAuto app info screen. \n3. Click Battery settings and disable Background restriction for the WhatsAuto app. \n4. Click Battery optimisation and disable it for the WhatsAuto app.\n\nAllow the WhatsAuto app to run in the background and disable all other background and battery restriction for the WhatsAuto app.</string>
     <string name="str_not_working_10">3. If you have more than 10 unread conversations in your messaging app, please make sure to mark all of them as read.</string>
     <string name="str_everyday">Everyday</string>
     <string name="str_custom_schedule">Custom schedule</string>
@@ -439,7 +440,7 @@
     <string name="str_server_reply_title">Server Reply</string>
     <string name="str_custom_reply_title">Custom Reply</string>
     <string name="str_custom_reply_time">Custom Reply Time</string>
-    <string name="str_send_custom_reply_message_immediately">Send custom reply, sub-menu reply and spreadsheet messages immediately.</string>
+    <string name="str_send_custom_reply_message_immediately">Send custom reply and spreadsheet messages without any delay.</string>
     <string name="str_get_reply_from_server">Get reply from server</string>
     <string name="str_tags">Tags</string>
     <string name="str_log_out">Log Out</string>
@@ -481,9 +482,9 @@
     <string name="str_dialogflow_error">Dialogflow error</string>
     <string name="str_reply_header">Reply Header</string>
     <string name="str_reply_tags">Reply Tags</string>
-    <string name="str_the_name_will_replace_with_name_of_person">The name will be replaced with the name of the person sending you a message.</string>
-    <string name="str_first_name_replace_with_name_of_person">The first name will be replaced with the first name of the person sending you a message.</string>
-    <string name="str_last_name_replace_with_last_name_person">The last name will be replaced with the last name of the person sending you a message.</string>
+    <string name="str_the_name_will_sent_as_reply">The name of the person sending you a message will be sent as a reply message.</string>
+    <string name="str_first_name_sent_as_reply_message">The first name of the person sending you a message will be sent as a reply message.</string>
+    <string name="str_last_name_sent_as_reply_message">The last name of the person sending you a message will be sent as a reply message.</string>
     <string name="str_whatsauto_statistics">WhatsAuto Statistics</string>
     <string name="str_total_auto_reply_messages_sent">Total auto-reply messages sent</string>
     <string name="str_do_you_want_to_save_statistics_message_pdf">Do you want to save this statistics messages as PDF?</string>
@@ -553,4 +554,18 @@
     <string name="str_restore_successful">Restore successful</string>
     <string name="str_unlimited_menu_reply">Unlimited Menu Reply</string>
     <string name="str_upgraded_menu_reply_version_please_delete_create_new">We have upgraded a menu reply version. For better performance please delete your old menu reply messages and create a new one.</string>
+    <string name="str_menu_reply_settings">Menu Reply Settings</string>
+    <string name="str_message">Message</string>
+    <string name="str_do_not_reply">Do not reply</string>
+    <string name="str_do_not_reply_tag">(Do not reply)</string>
+    <string name="str_donot_reply_mode_set">Do not reply mode is set</string>
+    <string name="str_incoming_message_sent_as_reply_message">The incoming message will be sent as a reply message.</string>
+    <string name="str_create_notes_share_other_apps_easily">Create notes to share with other messaging apps easily.</string>
+    <string name="str_notes">Notes</string>
+    <string name="str_tap_at_the_bottom_of_the_screen_to_create_notes_tap_the_share_icon_to_share_the_note_easily_with_other_apps">Tap + at the bottom of the screen to create notes. Tap the share icon to share the note easily with other apps.</string>
+    <string name="str_add_a_note">Add a note</string>
+    <string name="str_shortcut">Shortcut</string>
+    <string name="str_shortcut_not_supported_contact_support">Shortcut not supported, please contact support</string>
+    <string name="str_are_you_sure_delete_question_mark">Are you sure want to delete?</string>
+    <string name="str_fb_messenger_allow_draw_over_other_apps">Are you having trouble with the FB Messenger app? \n\n1. Click the settings button below. \n2. Then go to the Advanced option and click Display over other apps. \n3. Enable \"Allow display over other apps\" for messenger. \nThat\'s it, check the auto-reply for messenger now.</string>
 </resources>
