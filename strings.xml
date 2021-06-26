@@ -216,8 +216,8 @@
     <string name="str_restart_phone">Restart Phone</string>
     <string name="str_restart_desc">Please restart your phone and check it again. If none of these methods works, please contact us.</string>
     <string name="str_group_name">Group Name</string>
-    <string name="str_exact_match_desc"><![CDATA[<b>Exact Match:</b> The reply message will be sent when you receive a message that exactly matches your incoming message keyword. You can add multiple incoming messages separated by a comma. Example: One, Two, Three]]></string>
-    <string name="str_contains_desc"><![CDATA[<b>Contains:</b> The reply message will be sent when you receive a message that contains your incoming message keyword. You can also add multiple incoming messages separated by a comma. Example: Hi, Hey, Hello.]]></string>
+    <string name="str_exact_match_desc">If the incoming keyword exactly matches the incoming message from your messaging app then the reply message will be sent.</string>
+    <string name="str_contains_desc">If an incoming message from your messaging app contains one of your incoming keywords, a reply message will be sent.</string>
     <string name="str_please_wait_loading">Please wait…</string>
     <string name="str_exact_match">Exact Match</string>
     <string name="str_contains">Contains</string>
@@ -345,14 +345,13 @@
     <string name="str_everyday">Everyday</string>
     <string name="str_custom_schedule">Custom schedule</string>
     <string name="str_automatic_turn_summary" translatable="false">At %1$s on %2$s</string>
-    <string name="str_only_for_lifetime"><![CDATA[Only <b>%1$s</b> for lifetime.]]></string>
     <string name="str_whatsauto_premium">WhatsAuto Premium</string>
     <string name="str_upgrade_now">Upgrade Now</string>
-    <string name="str_ads_free">Ads free</string>
+    <string name="str_no_ads">No Ads</string>
     <string name="str_cloud_backup">Cloud backup</string>
     <string name="str_automatic_turn_on">Automatic Turn On</string>
     <string name="str_automatic_spreadsheet_sync">Automatic spreadsheet sync</string>
-    <string name="str_congratualtions_you_premium_user">Congratulations! You\'re a premium user.</string>
+    <string name="str_you_are_premium_user">You\'re a premium user.</string>
     <string name="str_get_lifetime_premium_access">Get Lifetime Premium Access</string>
     <string name="str_create_your_chatbot">Create your own chatbot by customising incoming and reply messages.</string>
     <string name="str_welcome_message">Welcome Message</string>
@@ -568,4 +567,21 @@
     <string name="str_shortcut_not_supported_contact_support">Shortcut not supported, please contact support</string>
     <string name="str_are_you_sure_delete_question_mark">Are you sure want to delete?</string>
     <string name="str_fb_messenger_allow_draw_over_other_apps">Are you having trouble with the FB Messenger app? \n\n1. Click the settings button below. \n2. Then go to the Advanced option and click Display over other apps. \n3. Enable \"Allow display over other apps\" for messenger. \nThat\'s it, check the auto-reply for messenger now.</string>
+    <string name="str_premium_account">Premium Account</string>
+    <string name="str_one_time_payment_pay_once_enjoy_lifetime_benefits">One time payment.\nPay once. Enjoy lifetime benefits.</string>
+    <string name="str_premium_help">Premium help</string>
+    <string name="str_if_you_are_using_more_than_one_gmail_account">If you are using more than one Gmail account on your phone then please uninstall the WhatsAuto app and go to Play Store and choose the right Gmail account you purchased the premium and download the app again. Sometimes updating the app using the wrong Gmail account may lead to a free account.</string>
+    <string name="str_premium_benefits">Premium Benefits</string>
+    <string name="str_premium_account_become_free_why">1. Why my premium account became free account?</string>
+    <string name="str_paid_for_premium_but_account_still_free">2. I have paid for the premium but my account is still free, why?</string>
+    <string name="str_make_payment_with_debit_credit_card">Please try to make a payment using your debit or credit card. There was an issue with other payment methods such as UPI, Google Pay, etc. Contact our support team for alternate payment.</string>
+    <string name="str_reply_alert">Reply Alert</string>
+    <string name="str_send_email">Send Email</string>
+    <string name="str_you_can_add_multiple_incoming_message_by_comma">You can add multiple Incoming Keyword separated by a comma. Example: One, Two, Three</string>
+    <string name="str_note">Note</string>
+    <string name="str_message_sent_to">Message sent to</string>
+    <string name="str_you_are_receiving_email_because_enabled_email_alerts">You are receiving this email because you have enabled an email alert for the above reply message. To stop receiving email alerts, disable the reply alert option in the app.</string>
+    <string name="str_open_with">Open with</string>
+    <string name="str_email_alert">Email Alert</string>
+    <string name="str_email_alert_will_be_sent_to_mail_inbox">An email alert will be sent to your Signed-in email account whenever this reply message is sent.</string>
 </resources>
