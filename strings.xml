@@ -8,6 +8,7 @@
     <string name="admob_native_menu_screen" translatable="false">ca-app-pub-9510828685498412/6771986432</string>
     <string name="admob_open_ads" translatable="false">ca-app-pub-9510828685498412/4143094642</string>
     <string name="admob_native_auto_reply_text" translatable="false">ca-app-pub-9510828685498412/2427123067</string>
+    <string name="admob_native_direct_message" translatable="false">ca-app-pub-9510828685498412/1328511770</string>
 
     <!--facebook license !-->
     <string name="facebook_app_id" translatable="false">399896357228053</string>
@@ -127,7 +128,7 @@
     <string name="str_type_reply_message">Type your reply message</string>
     <string name="str_message_cant_empty">Message can\'t be empty!</string>
     <string name="str_smart_reply">Smart Reply</string>
-    <string name="str_time_delay_desc">Don\'t send a reply immediately. Wait for %1$s for the next auto-reply.</string>
+    <string name="str_time_delay_desc">Don\'t send a reply immediately to the same person, wait for %1$s for the next auto-reply.</string>
     <string name="str_time_delay">Time Delay</string>
     <string name="str_upgrade_premium">Upgrade to Premium</string>
     <string name="str_buy_premium">Buy Premium</string>
@@ -152,7 +153,7 @@
     <string name="str_congratualtions_one_day_premium_user">Congratulations! You\'re now premium user for one day.</string>
     <string name="str_reply_time">Reply Time</string>
     <string name="str_reply_continously">Reply Continuously</string>
-    <string name="str_dont_delay_summary">Reply immediately. Don\'t delay in sending auto-reply.</string>
+    <string name="str_dont_delay_summary">Don\'t delay in sending auto-reply.</string>
     <string name="str_premium">Premium</string>
     <string name="str_update_WhatsAuto">Update WhatsAuto app</string>
     <string name="str_obsolete_desc">This version of WhatsAuto app become obsolete. Please go to the Google Play Store to download the latest version.</string>
@@ -399,9 +400,9 @@
     <string name="str_server_url">Server URL</string>
     <string name="str_server_how_it_works_desc">1. WhatsAuto will send a incoming message from your messaging app to your configured server URL.\n\n2. Once your server respond back with the reply message, WhatsAuto will send it to your messaging app.\n\n3. That\'s it!! Simple isn\'t ?</string>
     <string name="str_example_server_url">Example: https://example.com/message.php</string>
-    <string name="str_name_of_the_incoming_message_app">Name of the incoming message app</string>
-    <string name="str_sender_of_the_incoming_message">Sender of the incoming message</string>
-    <string name="str_message_content">Message content</string>
+    <string name="str_name_of_the_incoming_message_app">name of the incoming message app</string>
+    <string name="str_sender_of_the_incoming_message">sender name of the incoming message</string>
+    <string name="str_message_content">message content</string>
     <string name="str_request_body">Request Body</string>
     <string name="str_response_body">Response Body</string>
     <string name="str_reply_message_from_server">Reply message from the server</string>
@@ -508,7 +509,7 @@
     <string name="str_thanks_for_your_rating">Thanks for rating us.</string>
     <string name="str_if_you_enjoy_using_this_app_please_take_a_moment_to_help_us_by_rating_it">If you enjoy using this app, please take a moment to help us by rating it.</string>
     <string name="str_please_rate_us_on_play_store">Please rate us on Play Store</string>
-    <string name="str_time_delay_category_summary">Don\'t delay, time delay, reply once.</string>
+    <string name="str_time_delay_category_summary">Wait time, reply once, screen lock reply.</string>
     <string name="str_dont_delay">Don\'t Delay</string>
     <string name="str_message_copied_to_clipboard">Message copied to clipboard</string>
     <string name="str_live_sync">Live sync</string>
@@ -584,4 +585,26 @@
     <string name="str_open_with">Open with</string>
     <string name="str_email_alert">Email Alert</string>
     <string name="str_email_alert_will_be_sent_to_mail_inbox">An email alert will be sent to your Signed-in email account whenever this reply message is sent.</string>
+    <string name="str_reply_sent_to">Reply sent to</string>
+    <string name="str_group_name_of_incoming_message">group name of the incoming message</string>
+    <string name="str_phone_number_of_sender_from_contact_list">phone number of the sender from your contact list</string>
+    <string name="str_wait_time">Wait Time</string>
+    <string name="str_reply_immediately">Reply Immediately</string>
+    <string name="str_screen_lock_enabled_reply_will_send_only_phone_lock">Screen lock reply is enabled. Reply will send only if the phone screen is locked.</string>
+    <string name="str_screen_lock">Screen Lock</string>
+    <string name="str_send_reply_only_phone_locked">Send reply only when the phone screen is locked</string>
+    <string name="str_screen_lock_reply">Screen Lock Reply</string>
+    <string name="str_set_screen_lock">Set Screen Lock</string>
+    <string name="str_you_must_set_screen_lock_in_your_phone">You must set a screen lock in your phone to activate this feature.</string>
+    <string name="str_app_security">App security</string>
+    <string name="str_screen_lock_security">Screen lock security</string>
+    <string name="str_theme">Theme</string>
+    <string name="str_display">Display</string>
+    <string name="str_day_mode">Day Mode</string>
+    <string name="str_stop_reply">Stop Reply</string>
+    <string name="str_stop_reply_tag">stop_reply</string>
+    <string name="str_stop_reply_enabled">Stop Reply Enabled</string>
+    <string name="str_you_have_enabled_stop_reply_dialog_description">You have enabled Stop Reply for this message. To create a new sub-menu or access the existing one, you need to disable the Stop Reply in the more options settings.</string>
+    <string name="str_you_have_enabled_stop_reply_logs">Stop Reply is activated for this recipient. Reply will no longer send until you turn off and on auto-reply.</string>
+    <string name="str_stop_sending_replies_to_same_person">Stop sending replies to the same person if this menu option is chosen.</string>
 </resources>
