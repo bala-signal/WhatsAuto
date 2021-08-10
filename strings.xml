@@ -8,12 +8,6 @@
     <string name="admob_native_menu_screen" translatable="false">ca-app-pub-9510828685498412/6771986432</string>
     <string name="admob_open_ads" translatable="false">ca-app-pub-9510828685498412/4143094642</string>
     <string name="admob_native_auto_reply_text" translatable="false">ca-app-pub-9510828685498412/2427123067</string>
-    <string name="admob_native_direct_message" translatable="false">ca-app-pub-9510828685498412/1328511770</string>
-
-    <!--facebook license !-->
-    <string name="facebook_app_id" translatable="false">399896357228053</string>
-    <string name="facebook_native_banner_home_page" translatable="false">399896357228053_435292797021742</string>
-    <string name="facebook_banner_ad" translatable="false">399896357228053_438818916669130</string>
 
     <!--Notification channels -->
     <string name="notification_id_WhatsAuto" translatable="false">1</string>
@@ -606,5 +600,5 @@
     <string name="str_stop_reply_enabled">Stop Reply Enabled</string>
     <string name="str_you_have_enabled_stop_reply_dialog_description">You have enabled Stop Reply for this message. To create a new sub-menu or access the existing one, you need to disable the Stop Reply in the more options settings.</string>
     <string name="str_you_have_enabled_stop_reply_logs">Stop Reply is activated for this recipient. Reply will no longer send until you turn off and on auto-reply.</string>
-    <string name="str_stop_sending_replies_to_same_person">Stop sending replies to the same person if this menu option is chosen.</string>
+    <string name="str_stop_sending_replies_to_same_person">If this menu option is selected, stop sending replies to the same person until you turn on auto-reply next time..</string>
 </resources>
