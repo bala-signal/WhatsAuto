@@ -11,11 +11,13 @@
 
     <!--Notification channels -->
     <string name="notification_id_WhatsAuto" translatable="false">1</string>
-    <string name="notification_title_WhatsAuto" translatable="false">WhatsAuto notification</string>
+    <string name="notification_title_WhatsAuto">WhatsAuto notification</string>
     <string name="notification_id_reply" translatable="false">2</string>
-    <string name="notification_title_reply" translatable="false">Auto Reply notification</string>
+    <string name="notification_title_reply">Auto-reply notification</string>
     <string name="notification_id_test_reply" translatable="false">3</string>
-    <string name="notification_title_test_reply" translatable="false">Test reply notification</string>
+    <string name="notification_title_test_reply">Test reply notification</string>
+    <string name="notification_id_alert" translatable="false">4</string>
+    <string name="notification_title_alert_notification">Alert notification</string>
 
     <!-- firebase -->
     <string name="web_client" translatable="false">1095768985568-qljljht281e3k73499640qe433je6l11.apps.googleusercontent.com</string>
@@ -600,5 +602,12 @@
     <string name="str_stop_reply_enabled">Stop Reply Enabled</string>
     <string name="str_you_have_enabled_stop_reply_dialog_description">You have enabled Stop Reply for this message. To create a new sub-menu or access the existing one, you need to disable the Stop Reply in the more options settings.</string>
     <string name="str_you_have_enabled_stop_reply_logs">Stop Reply is activated for this recipient. Reply will no longer send until you turn off and on auto-reply.</string>
-    <string name="str_stop_sending_replies_to_same_person">If this menu option is selected, stop sending replies to the same person until you turn on auto-reply next time..</string>
+    <string name="str_stop_sending_replies_to_same_person">Stop sending a reply to a particular chat if this menu option is chosen. Turn off and on auto-reply to start sending a reply back.</string>
+    <string name="str_menu_settings">Menu settings</string>
+    <string name="str_main_menu">Main Menu</string>
+    <string name="str_add_option_to_main_menu_in_reply_message">Add option to go back to the main menu in the reply message.</string>
+    <string name="str_add_option_to_previous_menu_reply_message">Add option to go back to the previous menu in the reply message.</string>
+    <string name="str_menu_reply_time">Menu Reply Time</string>
+    <string name="str_configure_menu_reply_time">Configure menu reply time.</string>
+    <string name="str_previous_menu">Previous Menu</string>
 </resources>
