@@ -619,4 +619,12 @@
     <string name="str_sorry_choose_correct_menu_again">Sorry, please choose the correct menu option again.</string>
     <string name="str_default_menu_reply">Default menu reply</string>
     <string name="str_default_reply">Default reply</string>
+    <string name="str_auto_reply_reminder">Auto-reply reminder</string>
+    <string name="str_did_you_turn_on_auto_reply_today">Did you turn on auto-reply today?</string>
+    <string name="str_tired_of_sending_auto_reply_manually">Tired of sending replies manually?</string>
+    <string name="str_forgot_to_turn_on_auto_reply">Forgot to turn on auto-reply?</string>
+    <string name="str_turn_on_auto_reply_to_send_auto_replies">Turn on auto-reply to send automatic replies.</string>
+    <string name="str_reduce_your_work_by_turning_auto_reply">Reduce your work by turning on auto-reply.</string>
+    <string name="str_let_the_auto_reply_answer_to_reduce_work">Let the auto-reply answer all your incoming messages to reduce your work.</string>
+    <string name="str_auto_reply_take_care_incoming_message_turn_on">Auto-reply will take care of all your incoming messages, let\'s turn it on.</string>
 </resources>
