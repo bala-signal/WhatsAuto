@@ -607,7 +607,16 @@
     <string name="str_main_menu">Main Menu</string>
     <string name="str_add_option_to_main_menu_in_reply_message">Add option to go back to the main menu in the reply message.</string>
     <string name="str_add_option_to_previous_menu_reply_message">Add option to go back to the previous menu in the reply message.</string>
-    <string name="str_menu_reply_time">Menu Reply Time</string>
+    <string name="str_menu_reply_time">Menu reply time</string>
     <string name="str_configure_menu_reply_time">Configure menu reply time.</string>
     <string name="str_previous_menu">Previous Menu</string>
+    <string name="str_main_and_previous_menu">Main &amp; Previous menu</string>
+    <string name="str_send_main_menu">Send main menu</string>
+    <string name="str_send_same_menu_again">Send same menu again</string>
+    <string name="str_send_custom_message">Send custom message</string>
+    <string name="str_send_reply_message_if_wrong_menu_chosen">Send a reply message if the wrong or invalid menu option is chosen.</string>
+    <string name="str_reply_type">Reply type</string>
+    <string name="str_sorry_choose_correct_menu_again">Sorry, please choose the correct menu option again.</string>
+    <string name="str_default_menu_reply">Default menu reply</string>
+    <string name="str_default_reply">Default reply</string>
 </resources>
