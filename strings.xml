@@ -600,7 +600,7 @@
     <string name="str_stop_reply">Stop Reply</string>
     <string name="str_stop_reply_tag">stop_reply</string>
     <string name="str_stop_reply_enabled">Stop Reply Enabled</string>
-    <string name="str_you_have_enabled_stop_reply_dialog_description">You have enabled Stop Reply for this message. To create a new sub-menu or access the existing one, you need to disable the Stop Reply in the more options settings.</string>
+    <string name="str_you_have_enabled_stop_reply_dialog_description">You have enabled Stop Reply for this message. Auto-reply will not be sent to a particular chat if this menu option is chosen. Turn off and on auto-reply to start sending a reply back.</string>
     <string name="str_you_have_enabled_stop_reply_logs">Stop Reply is activated for this recipient. Reply will no longer send until you turn off and on auto-reply.</string>
     <string name="str_stop_sending_replies_to_same_person">Stop sending a reply to a particular chat if this menu option is chosen. Turn off and on auto-reply to start sending a reply back.</string>
     <string name="str_menu_settings">Menu settings</string>
@@ -627,4 +627,9 @@
     <string name="str_reduce_your_work_by_turning_auto_reply">Reduce your work by turning on auto-reply.</string>
     <string name="str_let_the_auto_reply_answer_to_reduce_work">Let the auto-reply answer all your incoming messages to reduce your work.</string>
     <string name="str_auto_reply_take_care_incoming_message_turn_on">Auto-reply will take care of all your incoming messages, let\'s turn it on.</string>
+    <string name="str_add_newline">Add Newline</string>
+    <string name="str_separate_menu_message_menu_list_previous_option_new_line">Separate menu message, menu list, and previous menu option with a new line.</string>
+    <string name="str_if_you_problem_with_any_messaging_apps_below_or_contact_support">If you have a problem with any of the messaging apps listed below, please click on it. Otherwise, contact support@whatsauto.app.</string>
+    <string name="str_auto_reply_only_works_one_active_account_instagram">Auto-reply only works on one active Instagram account. If you have more than one account in your Instagram app, please remove the other account.</string>
+    <string name="str_instagram" translatable="false">Instagram</string>
 </resources>
