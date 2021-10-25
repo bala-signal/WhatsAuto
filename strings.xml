@@ -632,4 +632,6 @@
     <string name="str_if_you_problem_with_any_messaging_apps_below_or_contact_support">If you have a problem with any of the messaging apps listed below, please click on it. Otherwise, contact support@whatsauto.app.</string>
     <string name="str_auto_reply_only_works_one_active_account_instagram">Auto-reply only works on one active Instagram account. If you have more than one account in your Instagram app, please remove the other account.</string>
     <string name="str_instagram" translatable="false">Instagram</string>
+    <string name="str_show_emoji_options">Show emoji for sub-menu list options.</string>
+    <string name="str_emoji_options">Emoji Options</string>
 </resources>
