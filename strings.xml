@@ -649,4 +649,11 @@
     <string name="str_spreadsheet_learn_more_2">Type any incoming message keyword in COLUMN A. Ex: Hi, Hello, Hey</string>
     <string name="str_spreadsheet_learn_more_3">Type your reply message in the COLUMN B. Ex: Hello, how are you?</string>
     <string name="str_spreadsheet_learn_more_4">Now come back to the app and add the spreadsheet you have created. That\'s it.</string>
+    <string name="str_0_messages_added">0 messages added</string>
+    <string name="str_delete_my_account">Delete my account</string>
+    <string name="str_deleting_your_account_will">Deleting your account will:</string>
+    <string name="str_delete_account_summary">- Delete your account from WhatsAuto.\n- Erase all your data in the app.</string>
+    <string name="str_deleting_account_please_wait">Deleting your account, please wait.</string>
+    <string name="str_we_sad_see_you_leave_delete_account">We\'re sorry to see you leave. If you need any help, please contact us at support@whatsauto.app</string>
+    <string name="str_security_reasons_sign_in_again">For security reasons, please sign-in again.</string>
 </resources>
