@@ -475,6 +475,7 @@
     <string name="str_please_configure_dialogflow_account">Please configure your Dialogflow account.</string>
     <string name="str_no_response_for_text">No response for the text</string>
     <string name="str_dialogflow_error">Dialogflow error</string>
+    <string name="str_reply_header_and_footer">Reply Header &amp; Footer</string>
     <string name="str_reply_header">Reply Header</string>
     <string name="str_reply_tags">Reply Tags</string>
     <string name="str_the_name_will_sent_as_reply">The name of the person sending you a message will be sent as a reply message.</string>
@@ -487,7 +488,7 @@
     <string name="str_save_as_pdf">Save as PDF</string>
     <string name="str_statistics_detailed_report">Statistics detailed report</string>
     <string name="str_export_statistics_report">Export statistics report</string>
-    <string name="str_customize_reply_message_header">Customize the reply message header.</string>
+    <string name="str_customize_reply_message_header">Customize the reply message header and footer.</string>
     <string name="str_download_statistics_or_watch_free_ads">To download your statistics report upgrade to premium or watch free Ad.</string>
     <string name="str_try_for_free">Try for free</string>
     <string name="str_download_as_pdf">Download as PDF</string>
@@ -656,4 +657,21 @@
     <string name="str_deleting_account_please_wait">Deleting your account, please wait.</string>
     <string name="str_we_sad_see_you_leave_delete_account">We\'re sorry to see you leave. If you need any help, please contact us at support@whatsauto.app</string>
     <string name="str_security_reasons_sign_in_again">For security reasons, please sign-in again.</string>
+    <string name="str_cloud_api_beta">Cloud API (Beta)</string>
+    <string name="str_cloud_api_beta_summary">Send and receive WA messages using a cloud-hosted version of the WA Business Platform.</string>
+    <string name="str_phone_number_id">Phone number ID</string>
+    <string name="str_access_token">Access token</string>
+    <string name="str_start_configuration">Start Configuration</string>
+    <string name="str_schedule_messages">Schedule Messages</string>
+    <string name="str_configuration">Configuration</string>
+    <string name="str_phone_number_id_instructions">Go to https://developers.facebook.com/apps and copy the phone number ID from your app\'s WA Getting Started page.</string>
+    <string name="str_access_token_instructions">Go to https://business.facebook.com/settings and click Generate New Token under Users section in the System users page.</string>
+    <string name="str_something_wrong_contact_support_full_address">Something went wrong, please contact support team at support@whatsauto.app</string>
+    <string name="str_reply_footer">Reply Footer</string>
+    <string name="str_header_message">Header Message</string>
+    <string name="str_footer_message">Footer Message</string>
+    <string name="str_reply_header_summary">Include the header in the reply message.</string>
+    <string name="str_reply_footer_summary">Include the footer in the response message.</string>
+    <string name="str_use_your_name_brand_name">Use your name or a brand name</string>
+    <string name="str_add_new_line_reply_message_footer">Add a new line between the reply message and the footer</string>
 </resources>
