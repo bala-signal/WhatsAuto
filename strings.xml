@@ -315,8 +315,6 @@
     <string name="str_search_contact">Search contact</string>
     <string name="str_phone_idle_desc">Turn on WhatsAuto automatically when the phone screen is locked and idle.</string>
     <string name="str_phone_idle">Phone Idle</string>
-    <string name="str_driving_mode">Driving Mode</string>
-    <string name="str_driving_mode_desc">Turn on WhatsAuto automatically when driving.</string>
     <string name="str_select_all">Select All</string>
     <string name="str_unselect_all">Unselect All</string>
     <string name="str_every_1_hour">every 1 hour</string>
@@ -442,7 +440,7 @@
     <string name="str_confirm_log_out">Are you sure want to log out of %s ?</string>
     <string name="str_faq">FAQ</string>
     <string name="str_have_you_read_our_faq">Have you read our FAQ yet?</string>
-    <string name="str_automatic_on_settings_summary">Schedule time, driving mode.</string>
+    <string name="str_automatic_on_settings_summary">Schedule time, Bluetooth mode.</string>
     <string name="str_smart_reply_settings_summary">Time delay, once, no delay.</string>
     <string name="str_order_id">Order id</string>
     <string name="str_type_a_message">Type a message</string>
@@ -674,4 +672,8 @@
     <string name="str_reply_footer_summary">Include the footer in the response message.</string>
     <string name="str_use_your_name_brand_name">Use your name or a brand name</string>
     <string name="str_add_new_line_reply_message_footer">Add a new line between the reply message and the footer</string>
+    <string name="str_bluetooth_mode">Bluetooth Mode</string>
+    <string name="str_bluetooth_summary">Activate auto-reply when the phone is paired with a specific Bluetooth device.</string>
+    <string name="str_device_name">Device name</string>
+    <string name="str_bluetooth">Bluetooth</string>
 </resources>
