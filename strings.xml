@@ -677,4 +677,6 @@
     <string name="str_device_name">Device name</string>
     <string name="str_bluetooth">Bluetooth</string>
     <string name="str_you_can_add_or_modify_sheet_data">You can add or modify data in the Google Sheet and sync it at any time.</string>
+    <string name="str_hours">Hours</string>
+    <string name="str_days">Days</string>
 </resources>
