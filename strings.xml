@@ -10,14 +10,11 @@
     <string name="admob_native_auto_reply_text" translatable="false">ca-app-pub-9510828685498412/2427123067</string>
 
     <!--Notification channels -->
-    <string name="notification_id_WhatsAuto" translatable="false">1</string>
-    <string name="notification_title_WhatsAuto">WhatsAuto notification</string>
-    <string name="notification_id_reply" translatable="false">2</string>
-    <string name="notification_title_reply">Auto-reply notification</string>
-    <string name="notification_id_test_reply" translatable="false">3</string>
-    <string name="notification_title_test_reply">Test reply notification</string>
-    <string name="notification_id_alert" translatable="false">4</string>
-    <string name="notification_title_alert_notification">Alert notification</string>
+    <string name="notification_title_auto_reply">Auto reply</string>
+    <string name="notification_title_test_reply">Test reply</string>
+    <string name="notification_title_reminder">Reminder</string>
+    <string name="notification_title_backups">Backups</string>
+    <string name="notification_title_replied_message">Replied message</string>
 
     <!-- firebase -->
     <string name="web_client" translatable="false">1095768985568-qljljht281e3k73499640qe433je6l11.apps.googleusercontent.com</string>
@@ -342,7 +339,7 @@
     <string name="str_whatsauto_premium">WhatsAuto Premium</string>
     <string name="str_upgrade_now">Upgrade Now</string>
     <string name="str_no_ads">No Ads</string>
-    <string name="str_cloud_backup">Cloud backup</string>
+    <string name="str_cloud_backup">Cloud Backup</string>
     <string name="str_automatic_turn_on">Automatic Turn On</string>
     <string name="str_automatic_spreadsheet_sync">Automatic spreadsheet sync</string>
     <string name="str_you_are_premium_user">You\'re a premium user.</string>
@@ -541,8 +538,8 @@
     <string name="str_backup_successful">Backup successful</string>
     <string name="str_menu_reply_backup_completed_successfully">Menu reply backup completed successfully.</string>
     <string name="str_backup_failed">Backup failed</string>
-    <string name="str_restore_from_phone">Restore from phone</string>
-    <string name="str_restore_from_cloud">Restore from cloud</string>
+    <string name="str_restore_from_phone">Restore from Phone</string>
+    <string name="str_restore_from_cloud">Restore from Cloud</string>
     <string name="str_restore_in_progress">Restore in progress</string>
     <string name="str_menu_reply_restore_completed_successfully">Menu reply restore completed successfully.</string>
     <string name="str_restore_successful">Restore successful</string>
@@ -679,4 +676,43 @@
     <string name="str_you_can_add_or_modify_sheet_data">You can add or modify data in the Google Sheet and sync it at any time.</string>
     <string name="str_hours">Hours</string>
     <string name="str_days">Days</string>
+    <string name="str_join_whatsapp_group">Join WhatsApp Group</string>
+    <string name="str_move">Move</string>
+    <string name="str_change_menu_position">Change menu position</string>
+    <string name="str_ai_reply">AI Reply</string>
+    <string name="str_ai_chat_description">Connect OpenAI ChatGPT to send an artificial intelligence-based reply.</string>
+    <string name="str_api_key">API Key</string>
+    <string name="str_get_api_key">Get API key</string>
+    <string name="str_more_parameters">More parameters</string>
+    <string name="str_saved">Saved!</string>
+    <string name="str_saved_successfully">Saved successfully</string>
+    <string name="str_ai_reply_api_key_empty_error">Please enter your ChatGPT API key</string>
+    <string name="str_ai_reply_model_empty_error">Please choose the Model</string>
+    <string name="str_chatgpt_reply_tag" translatable="false">(ChatGPT)</string>
+    <string name="str_send_reply_using_chatgpt">Send a reply using ChatGPT</string>
+    <string name="str_chatgpt_new_message_wait_message">Please wait for new messages, as the previous ChatGPT message is still being processed.</string>
+    <string name="str_clear_api_key">Clear API Key</string>
+    <string name="str_learn_how_to_use">Learn how to use</string>
+    <string name="str_train_chatGPT">Train ChatGPT</string>
+    <string name="str_train_chatgpt_desc">Make ChatGPT respond in a customized way by training it with your own data or a text prompt</string>
+    <string name="str_text_prompt">Text prompt</string>
+    <string name="str_add_text_prompt">Add text prompt</string>
+    <string name="str_chatgpt_text_prompt_helper">You can add a text prompt such as \"You are a helpful assistant,\" followed by information about yourself or your company to allow ChatGPT to respond accordingly.</string>
+    <string name="str_show_example">Show example</string>
+    <string name="str_chatgpt_example_text_prompt">Act as a personal assistant for our vegan ice cream parlor, located in the United States, and assist our valued customers.\n\nOur hours of operation are Monday to Friday, from 9am to 5pm.\n\nHere is our menu and prices:\n\n- Classic Vanilla ($5)\n- Chocolate ($5)\n- Strawberry Swirl ($5.5)\n- Raspberry Sorbet ($5.5)\n\nWhether you’re vegan or simply looking for a healthier alternative to traditional ice cream, our all-vegan ice cream is made with organic, non-GMO, and fair-trade ingredients. We take pride in offering high-quality ice cream at an affordable price. If you have any questions, please let us know, and we\'ll be happy to assist you!</string>
+    <string name="str_visit_openai_billing_add_payment">Please visit the OpenAI billing page and add a payment method.</string>
+    <string name="str_clear_chatgpt_messages">Clear ChatGPT Messages</string>
+    <string name="str_total_chatgpt_messages">Total ChatGPT Messages</string>
+    <string name="str_maximum_number_chatgpt_pref_desc">Maximum number of messages that ChatGPT should remember per chat</string>
+    <string name="str_ai_reply_settings">AI Reply Settings</string>
+    <string name="str_chatgpt_message_history">ChatGPT Message History</string>
+    <string name="str_chatgpt_clear_history_confirm_desc">Are you sure you want to clear your ChatGPT history?</string>
+    <string name="str_no_data_available_backup">No data is available to create a backup.</string>
+    <string name="str_backup_restore_whatsauto_account">Backup and restore your WhatsAuto.</string>
+    <string name="backup_to_phone">Backup to Phone</string>
+    <string name="backup_to_cloud">Backup to Cloud</string>
+    <string name="str_restore_successfull_reopen_app">Successfully restored. Close and reopen the app to see the restored data.</string>
+    <string name="your_app_data_is_successfully_backed_up">Your WhatsAuto app data has been successfully backed up</string>
+    <string name="str_auto_backup">Auto-Backup</string>
+    <string name="auto_backup_desc">Auto-Backup Enabled: Your data will now be automatically backed up to your cloud storage every day at %s.</string>
 </resources>
