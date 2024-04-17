@@ -8,6 +8,8 @@
     <string name="admob_native_menu_screen" translatable="false">ca-app-pub-9510828685498412/6771986432</string>
     <string name="admob_open_ads" translatable="false">ca-app-pub-9510828685498412/4143094642</string>
     <string name="admob_native_auto_reply_text" translatable="false">ca-app-pub-9510828685498412/2427123067</string>
+    <string name="admob_chatgpt_add_text_prompt" translatable="false">ca-app-pub-9510828685498412/3563631091</string>
+    <string name="admob_rewarded_interstitial" translatable="false">ca-app-pub-9510828685498412/4744663784</string>
 
     <!--Notification channels -->
     <string name="notification_title_auto_reply">Auto reply</string>
@@ -454,22 +456,7 @@
     <string name="str_you_can_test_auto_reply">Hi! You can test your auto-reply by sending a message to this chat.</string>
     <string name="str_test_reply">Test Reply</string>
     <string name="str_test_your_auto_reply_simulation">Test your auto-reply message with this simulation tool.</string>
-    <string name="str_dialogflow_account">Dialogflow account</string>
-    <string name="str_connect_dialogflow_to_whatsauto">Connect your Dialogflow agent to WhatsAuto.</string>
-    <string name="str_dialogflow">Dialogflow</string>
-    <string name="str_project_id">Project ID</string>
-    <string name="str_find_your_dialogflow_project_id_settings">Find your Dialogflow project ID in Dialogflow general settings.</string>
-    <string name="str_language_code">Language code</string>
-    <string name="str_find_language_dialogflow_settings">Find language in Dialogflow languages settings.</string>
-    <string name="str_connect_your_dialogflow_account">Please connect your Dialogflow account.</string>
-    <string name="str_please_enter_dialogflow_project_id">Please enter Dialogflow project ID.</string>
-    <string name="str_please_enter_dialogflow_language_code">Please enter your Dialogflow language code.</string>
-    <string name="dialogflow_reply_tag" translatable="false">(Dialogflow reply)</string>
-    <string name="str_dialogflow_reply">Dialogflow Reply</string>
-    <string name="str_send_incoming_message_to_dialogflow_get_reply">Send all incoming messages to your Dialogflow agent and get a reply.</string>
-    <string name="str_please_configure_dialogflow_account">Please configure your Dialogflow account.</string>
     <string name="str_no_response_for_text">No response for the text</string>
-    <string name="str_dialogflow_error">Dialogflow error</string>
     <string name="str_reply_header_and_footer">Reply Header &amp; Footer</string>
     <string name="str_reply_header">Reply Header</string>
     <string name="str_reply_tags">Reply Tags</string>
@@ -500,7 +487,7 @@
     <string name="str_thanks_for_your_rating">Thanks for rating us.</string>
     <string name="str_if_you_enjoy_using_this_app_please_take_a_moment_to_help_us_by_rating_it">If you enjoy using this app, please take a moment to help us by rating it.</string>
     <string name="str_please_rate_us_on_play_store">Please rate us on Play Store</string>
-    <string name="str_time_delay_category_summary">Wait time, reply once, screen lock reply.</string>
+    <string name="reply_time_category_summary">Instant reply, delay reply, reply once.</string>
     <string name="str_dont_delay">Don\'t Delay</string>
     <string name="str_message_copied_to_clipboard">Message copied to clipboard</string>
     <string name="str_live_sync">Live sync</string>
@@ -715,4 +702,28 @@
     <string name="your_app_data_is_successfully_backed_up">Your WhatsAuto app data has been successfully backed up</string>
     <string name="str_auto_backup">Auto-Backup</string>
     <string name="auto_backup_desc">Auto-Backup Enabled: Your data will now be automatically backed up to your cloud storage every day at %s.</string>
+    <string name="ads_privacy">Ads Privacy</string>
+    <string name="want_to_use_this_feature_premium_show_ads">Want to use this feature? Simply upgrade to our premium service or allow ads and restart the app.</string>
+    <string name="allow_ads">Allow Ads</string>
+    <string name="reply_message_already_sent__contact_customer_support">Reply message for this incoming message has already been sent. Try to turn off and on auto-reply to send reply message again or contact customer support.</string>
+    <string name="sends_a_reply_then_pauses_for_s">Sends a reply, then pauses until the wait time is over.</string>
+    <string name="sends_a_reply_after_a_s_delay">Sends a reply after a delay.</string>
+    <string name="pause_reply">Pause Reply</string>
+    <string name="delay_reply">Delay Reply</string>
+    <string name="instant_reply">Instant Reply</string>
+    <string name="send_reply_instantly_when_you_get_a_message">Send reply instantly when you get a message</string>
+    <string name="reply_message_will_be_sent_after_delay">The reply message will be sent after a %s delay.</string>
+    <string name="ads_loading">Ads Loading</string>
+    <string name="watch_ads_to_use_feature_upgrade_avoid_ads">Watch an ad to use this feature for free. To avoid ads, upgrade to premium.</string>
+    <string name="ads_start_in">Ads start in…(%d)</string>
+    <string name="premium_feature">Premium Feature</string>
+    <string name="create_a_new_spreadsheet">Create a New Spreadsheet</string>
+    <string name="create_spreadsheet">Create Spreadsheet</string>
+    <string name="sheet_name">Sheet Name</string>
+    <string name="back">Back</string>
+    <string name="trouble_access_token_signout_gmail_signin">Trouble obtaining an access token. Please sign out of your Gmail account, sign back in, and check again. If the issue persists, contact customer support at support@whatsauto.app.</string>
+    <string name="create_spreadsheet_info_hint">Spreadsheet created in Google Sheets. Now you can add new data or copy from another sheet in Google Sheets, and sync with WhatsAuto.</string>
+    <string name="spreadsheet_created_successfully">Spreadsheet Created Successfully.</string>
+    <string name="dialogflow_deprecated">Dialogflow is deprecated. Use AI Reply for better responses or configure Dialogflow on your server.</string>
+    <string name="dialogflow_reply_tag" translatable="false">(Dialogflow reply)</string>
 </resources>
