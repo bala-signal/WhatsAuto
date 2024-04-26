@@ -22,15 +22,15 @@
     <string name="web_client" translatable="false">1095768985568-qljljht281e3k73499640qe433je6l11.apps.googleusercontent.com</string>
 
     <!--strings-->
-    <string name="app_name" translatable="false">WhatsAuto</string>
+    <string name="app_name" translatable="false">SendReply</string>
     <string name="string_turn_off">TURN OFF</string>
-    <string name="string_turn_on">TURN ON</string>
+    <string name="string_turn_on">TURN ON</string> 
     <string name="whatslol_service">service</string>
     <string name="string_auto_reply_off">Auto reply OFF</string>
     <string name="string_auto_reply_on">Auto reply ON</string>
     <string name="string_auto_reply_text">Auto reply text</string>
     <string name="str_restart_require">Service not connected, restart your phone.</string>
-    <string name="str_default_status">Hey there! I am using WhatsAuto App.</string>
+    <string name="str_default_status">Hey there! I am using WhatAuto App.</string>
     <string name="str_select_status_text">Select your text</string>
     <string name="str_auto_reply_to">Auto reply to</string>
     <string name="str_contact_list">Contact list</string>
@@ -39,13 +39,13 @@
     <string name="str_add">Add</string>
     <string name="str_cancel">Cancel</string>
     <string name="str_done">Done</string>
-    <string name="str_turn_on_notification_permission">Turn ON notification for WhatsAuto app.</string>
+    <string name="str_turn_on_notification_permission">Turn ON notification for WhatAuto app.</string>
     <string name="str_permission_denied">Permission denied</string>
     <string name="str_guide_note">(Note: Auto reply works only when you receive message notification.)</string>
     <string name="str_share_app_snackbar">Share with your friends and family.</string>
     <string name="btn_cancel">Cancel</string>
-    <string name="play_store_link" translatable="false">https://play.google.com/store/apps/details?id=com.guibais.whatsauto</string>
-    <string name="str_checkout_WhatsAuto">Hi, did you know?\nYou can send automatic reply to incoming messages to any social messaging apps, when you\'re busy, it\'s free today for download.\nCheck this out!\n</string>
+    <string name="play_store_link" translatable="false">https://play.google.com/store/apps/details?id=com.guibais.WhatAuto</string>
+    <string name="str_checkout_WhatAuto">Hi, did you know?\nYou can send automatic reply to incoming messages to any social messaging apps, when you\'re busy, it\'s free today for download.\nCheck this out!\n</string>
     <string name="srt_thank_you_sharing">Thank you for sharing!.</string>
     <string name="str_ok">OK</string>
     <string name="str_how_to_use">How to use</string>
@@ -63,7 +63,7 @@
     <string name="str_version">Version</string>
     <string name="str_continue">Continue</string>
     <string name="str_not_now">Not now</string>
-    <string name="str_contact_permission">To see incoming message notification, allow WhatsAuto app to access to your contact list.</string>
+    <string name="str_contact_permission">To see incoming message notification, allow WhatAuto app to access to your contact list.</string>
     <string name="str_settings">Settings</string>
     <string name="str_status_count">Status %1$d</string>
     <string name="str_status_saved">Status saved!</string>
@@ -84,17 +84,17 @@
     <string name="str_are_you_sure">Are you sure ?</string>
     <string name="str_alert_message_1">This will delete all your saved status.</string>
     <string name="str_you_new_message">%1$d new message.</string>
-    <string name="str_WhatsAuto_on">Auto Reply ON</string>
-    <string name="str_WhatsAuto_off">Auto Reply OFF</string>
+    <string name="str_WhatAuto_on">Auto Reply ON</string>
+    <string name="str_WhatAuto_off">Auto Reply OFF</string>
     <string name="str_automatic">Automatic</string>
     <string name="str_automatic_on">Automatic On</string>
-    <string name="str_automatic_desc">Schedule time to turn WhatsAuto app automatically on or off.</string>
-    <string name="str_turn_on_automatically">Set time to turn WhatsAuto app automatically ON.</string>
-    <string name="str_turn_off_automatically">Set time to turn WhatsAuto app automatically OFF.</string>
+    <string name="str_automatic_desc">Schedule time to turn WhatAuto app automatically on or off.</string>
+    <string name="str_turn_on_automatically">Set time to turn WhatAuto app automatically ON.</string>
+    <string name="str_turn_off_automatically">Set time to turn WhatAuto app automatically OFF.</string>
     <string name="str_settings_turn_on">Turn On</string>
     <string name="str_settings_turn_off">Turn Off</string>
     <string name="str_notification">Notification</string>
-    <string name="str_play_notification_sound">Play notification sound when WhatsAuto app turn ON or OFF automatically.</string>
+    <string name="str_play_notification_sound">Play notification sound when WhatAuto app turn ON or OFF automatically.</string>
     <string name="str_contact">Contact</string>
     <string name="str_invite_friend">Invite a friend</string>
     <string name="str_home">Home</string>
@@ -116,7 +116,7 @@
     <string name="steps_desc_4">Note: Auto-reply will not work when you\'re chatting with the person or the chat is muted.</string>
     <string name="steps_desc_5">If auto-reply did not work, try restarting your device.</string>
     <string name="str_auto_reply">Auto Reply</string>
-    <string name="str_share_desc">Share WhatsAuto app with your friends and family.</string>
+    <string name="str_share_desc">Share WhatAuto app with your friends and family.</string>
     <string name="str_language">Language</string>
     <string name="str_app_language">App Language</string>
     <string name="str_reply_message">Reply message</string>
@@ -130,18 +130,18 @@
     <string name="str_premium_desc"><![CDATA[- Say goodbye to <b>Ads</b> forever.<br>- Automatic turn <b>ON/OFF</b> feature.<br>- <b>Backup and restore</b> your custom reply messages to online drive.<br>- Automatic <b>sheet sync</b> feature.<br>- Driving mode.<br>- <b>24/7</b> customer support.]]></string>
     <string name="str_upgrade">Upgrade</string>
     <string name="str_feature_available_for_premium_users">This feature is available only for premium users, upgrade to premium version now and enjoy access to this feature.</string>
-    <string name="str_thank_purchasing_whatsauto">Thank you for purchasing WhatsAuto app. You\'re now a premium user. Enjoy all benefits of premium features.</string>
+    <string name="str_thank_purchasing_WhatAuto">Thank you for purchasing WhatAuto app. You\'re now a premium user. Enjoy all benefits of premium features.</string>
     <string name="str_premium_user">Premium user</string>
     <string name="str_remove_auto_reply_desc">Remove Auto Reply header text from the reply message.</string>
     <string name="str_smart_reply_desc">Customize the auto reply time.</string>
     <string name="str_free_trail">Free Trail</string>
     <string name="str_app_lock_password">App Lock Password</string>
     <string name="str_security">Security</string>
-    <string name="str_app_lock_desc">Secure access to WhatsAuto app by using the same Pattern/PIN/Password you use to unlock your phone.</string>
+    <string name="str_app_lock_desc">Secure access to WhatAuto app by using the same Pattern/PIN/Password you use to unlock your phone.</string>
     <string name="str_reply_once">Reply Once</string>
     <string name="str_reply_once_desc">Reply only once to the same person/group until you turn ON auto-reply next time.</string>
     <string name="str_free_premium">Free Premium</string>
-    <string name="str_WhatsAuto_security">WhatsAuto Security</string>
+    <string name="str_WhatAuto_security">WhatAuto Security</string>
     <string name="str_use_your_phone_pattern_to_unlock">Use your phone pattern/pin/password to unlock.</string>
     <string name="str_warning">Warning</string>
     <string name="str_app_lock_will_not_work_screen_none">App lock will not work if your phone pattern/pin/password is set to none.</string>
@@ -150,8 +150,8 @@
     <string name="str_reply_continously">Reply Continuously</string>
     <string name="str_dont_delay_summary">Don\'t delay in sending auto-reply.</string>
     <string name="str_premium">Premium</string>
-    <string name="str_update_WhatsAuto">Update WhatsAuto app</string>
-    <string name="str_obsolete_desc">This version of WhatsAuto app become obsolete. Please go to the Google Play Store to download the latest version.</string>
+    <string name="str_update_WhatAuto">Update WhatAuto app</string>
+    <string name="str_obsolete_desc">This version of WhatAuto app become obsolete. Please go to the Google Play Store to download the latest version.</string>
     <string name="str_supported_apps">Supported Apps</string>
     <string name="str_tap_to_enable_support_for_following_apps">Tap to enable Auto Reply support for following apps.</string>
     <string name="str_help">Help</string>
@@ -178,7 +178,7 @@
     <string name="str_deleted">Deleted</string>
     <string name="str_undo">Undo</string>
     <string name="str_update_app">Update App</string>
-    <string name="str_update_app_desc">New Version of WhatsAuto app is available, update it from play store.</string>
+    <string name="str_update_app_desc">New Version of WhatAuto app is available, update it from play store.</string>
     <string name="str_update">Update</string>
     <string name="str_join_our_community">Join our community</string>
     <string name="str_join_us">Join Us</string>
@@ -205,7 +205,7 @@
     <string name="str_whats_new_desc_direct_message">Now you can send message directly to anyone without saving their contact.</string>
     <string name="str_whats_new_desc_support_groups">Now it will send auto reply messages to groups.\nYou can also customize the groups in group settings.</string>
     <string name="str_notification_access">Notification Access</string>
-    <string name="str_notification_access_desc">1. Click Notification Access button.\n2. Turn OFF and ON WhatsAuto app in the Notification Access screen.\n3. Automatic reply will work now.\nIf it doesn\'t work please swipe left to try next method.</string>
+    <string name="str_notification_access_desc">1. Click Notification Access button.\n2. Turn OFF and ON WhatAuto app in the Notification Access screen.\n3. Automatic reply will work now.\nIf it doesn\'t work please swipe left to try next method.</string>
     <string name="str_not_working">Not Working?</string>
     <string name="str_app_notification">App Notification</string>
     <string name="str_app_notification_desc">Please make sure you are getting a notification from your messaging app such as WhatsApp, Telegram, etc… whenever you receive a new message. Click Settings button and go to Notifications and turn on notification for your messaging apps.</string>
@@ -268,10 +268,10 @@
     <string name="str_spreadsheet_more_info"><![CDATA[<a href="#">Tap here</a> to learn more about creating a spreadsheet in google sheet.]]></string>
     <string name="str_spreadsheet_desc">Add your Google Sheets to send an auto-reply message from your spreadsheet. You can create, edit the spreadsheet online, and sync it any time.</string>
     <string name="str_uh_no_spreadsheet_found">Uh no… You don\'t have any spreadsheets in your google sheet. Create one and then sync it.</string>
-    <string name="str_attach_screenshot_WhatsAutoapp_optional">Attach screenshot of WhatsAuto app home screen.</string>
+    <string name="str_attach_screenshot_WhatAutoapp_optional">Attach screenshot of WhatAuto app home screen.</string>
     <string name="str_add_screenshot_optional">Add screenshot (Optional)</string>
     <string name="str_you">You</string>
-    <string name="str_new_version_available">New version of WhatsAuto is available, update the app now.</string>
+    <string name="str_new_version_available">New version of WhatAuto is available, update the app now.</string>
     <string name="str_congratulations">Congratulations!</string>
     <string name="str_sync">Sync</string>
     <string name="str_syncing">Syncing…</string>
@@ -285,12 +285,12 @@
     <string name="str_syncing_spreadsheet">Syncing spreadsheet</string>
     <string name="str_synced_messages">Synced messages</string>
     <string name="str_no_synced_messages_available">There are no synced messages.</string>
-    <string name="str_no_longer_status">Hi, we no longer support status feature, you can find all your saved status in your file manager under WhatsAuto folder.</string>
+    <string name="str_no_longer_status">Hi, we no longer support status feature, you can find all your saved status in your file manager under WhatAuto folder.</string>
     <string name="str_sync_automatically">Sync automatically</string>
     <string name="str_questions_need_help">Questions? Need help?</string>
     <string name="str_community">Community</string>
     <string name="str_not_working_1">1. Click Notification Access button below, you will be navigate to notification access screen.</string>
-    <string name="str_not_working_2">2. Turn OFF and ON WhatsAuto in the notification access screen.</string>
+    <string name="str_not_working_2">2. Turn OFF and ON WhatAuto in the notification access screen.</string>
     <string name="str_not_working_3">3. Auto reply should work now, if still not working, try next step.</string>
     <string name="str_not_working_4">1. Make sure you are getting a notification from your messaging apps like the image below whenever someone sends you a message.</string>
     <string name="str_not_working_5">2. Auto reply will work only if you get notifications from your messaging apps. If you\'re not getting notifications, click settings button below and find your messaging app and enable notifications, make sure notification is not blocked.</string>
@@ -307,12 +307,12 @@
     <string name="str_1_hour">1 Hour</string>
     <string name="contact_option_4">Except my phone contacts</string>
     <string name="str_auto_reply_everyone_except_phone_contact">Auto reply to everyone except your phone contacts.</string>
-    <string name="str_auto_reply_to_desc"><![CDATA[<b>Everyone</b> - To send auto reply to all your incoming messages.<br><b>My contact list</b> - To send auto reply only to your contact list you\'ve added in WhatsAuto app.<br><b>Except my contact list</b> - To send auto reply except your WhatsAuto contact list.<br><b>Except my phone contacts</b> - To send auto reply except your phone contact list.]]></string>
+    <string name="str_auto_reply_to_desc"><![CDATA[<b>Everyone</b> - To send auto reply to all your incoming messages.<br><b>My contact list</b> - To send auto reply only to your contact list you\'ve added in WhatAuto app.<br><b>Except my contact list</b> - To send auto reply except your WhatAuto contact list.<br><b>Except my phone contacts</b> - To send auto reply except your phone contact list.]]></string>
     <string name="str_chat_support">Chat Support</string>
     <string name="str_chat_support_summary">Chat with customer support</string>
     <string name="str_ad">Ad</string>
     <string name="str_search_contact">Search contact</string>
-    <string name="str_phone_idle_desc">Turn on WhatsAuto automatically when the phone screen is locked and idle.</string>
+    <string name="str_phone_idle_desc">Turn on WhatAuto automatically when the phone screen is locked and idle.</string>
     <string name="str_phone_idle">Phone Idle</string>
     <string name="str_select_all">Select All</string>
     <string name="str_unselect_all">Unselect All</string>
@@ -330,15 +330,15 @@
     <string name="str_minutes">Minutes</string>
     <string name="str_step_4">Step 4</string>
     <string name="str_battery_optimize">Battery optimize</string>
-    <string name="str_not_working_8">1. Sometimes working and sometimes not? then click battery optimize button below -> All apps -> disable WhatsAuto app.</string>
+    <string name="str_not_working_8">1. Sometimes working and sometimes not? then click battery optimize button below -> All apps -> disable WhatAuto app.</string>
     <string name="str_not_working_9">2. If you have any energy saver app or background restriction app, please disable for this app.</string>
-    <string name="str_phones_like_will_stop_app_disable_background_restriction">⭑ Phones like %s may stop the app working after some time, please go to the android settings and allow the WhatsAuto app to run in the background and disable all the background restriction and battery optimisation for the WhatsAuto app.\n\n⭑ If you need step by step instructions, please visit https://dontkillmyapp.com and look for your device name and follow the steps.</string>
-    <string name="str_some_phones_may_stop_app_background">Some phones may stop the WhatsAuto app from working in the background. \n\n1. Click settings button below to go to the WhatsAuto android settings. \n2. Then click the Advanced option in the WhatsAuto app info screen. \n3. Click Battery settings and disable Background restriction for the WhatsAuto app. \n4. Click Battery optimisation and disable it for the WhatsAuto app.\n\nAllow the WhatsAuto app to run in the background and disable all other background and battery restriction for the WhatsAuto app.</string>
+    <string name="str_phones_like_will_stop_app_disable_background_restriction">⭑ Phones like %s may stop the app working after some time, please go to the android settings and allow the WhatAuto app to run in the background and disable all the background restriction and battery optimisation for the WhatAuto app.\n\n⭑ If you need step by step instructions, please visit https://dontkillmyapp.com and look for your device name and follow the steps.</string>
+    <string name="str_some_phones_may_stop_app_background">Some phones may stop the WhatAuto app from working in the background. \n\n1. Click settings button below to go to the WhatAuto android settings. \n2. Then click the Advanced option in the WhatAuto app info screen. \n3. Click Battery settings and disable Background restriction for the WhatAuto app. \n4. Click Battery optimisation and disable it for the WhatAuto app.\n\nAllow the WhatAuto app to run in the background and disable all other background and battery restriction for the WhatAuto app.</string>
     <string name="str_not_working_10">3. If you have more than 10 unread conversations in your messaging app, please make sure to mark all of them as read.</string>
     <string name="str_everyday">Everyday</string>
     <string name="str_custom_schedule">Custom schedule</string>
     <string name="str_automatic_turn_summary" translatable="false">At %1$s on %2$s</string>
-    <string name="str_whatsauto_premium">WhatsAuto Premium</string>
+    <string name="str_WhatAuto_premium">WhatAuto Premium</string>
     <string name="str_upgrade_now">Upgrade Now</string>
     <string name="str_no_ads">No Ads</string>
     <string name="str_cloud_backup">Cloud Backup</string>
@@ -366,7 +366,7 @@
     <string name="str_rate_now">Rate now</string>
     <string name="str_later">Later</string>
     <string name="str_video_tutorials">Video tutorials</string>
-    <string name="str_is_whatsauto_not_working">Is WhatsAuto app not working?</string>
+    <string name="str_is_WhatAuto_not_working">Is WhatAuto app not working?</string>
     <string name="str_watch_video_tutorials">Watch video tutorials</string>
     <string name="str_upgrade_to_premium">Upgrade to premium</string>
     <string name="str_statistics">Statistics</string>
@@ -390,7 +390,7 @@
     <string name="str_header_optional">Header (Optional)</string>
     <string name="str_value">value</string>
     <string name="str_server_url">Server URL</string>
-    <string name="str_server_how_it_works_desc">1. WhatsAuto will send a incoming message from your messaging app to your configured server URL.\n\n2. Once your server respond back with the reply message, WhatsAuto will send it to your messaging app.\n\n3. That\'s it!! Simple isn\'t ?</string>
+    <string name="str_server_how_it_works_desc">1. WhatAuto will send a incoming message from your messaging app to your configured server URL.\n\n2. Once your server respond back with the reply message, WhatAuto will send it to your messaging app.\n\n3. That\'s it!! Simple isn\'t ?</string>
     <string name="str_example_server_url">Example: https://example.com/message.php</string>
     <string name="str_name_of_the_incoming_message_app">name of the incoming message app</string>
     <string name="str_sender_of_the_incoming_message">sender name of the incoming message</string>
@@ -416,7 +416,7 @@
     <string name="str_please_configure_your_server">Please configure your server</string>
     <string name="str_every_15_minutes">every 15 minutes</string>
     <string name="str_restricted">Restricted</string>
-    <string name="str_you_are_using_unofficial_version">You are using an Unofficial version of WhatsAuto app, please download the official app from play store or contact support@whatsauto.app.</string>
+    <string name="str_you_are_using_unofficial_version">You are using an Unofficial version of WhatAuto app, please download the official app from play store or contact support@WhatAuto.app.</string>
     <string name="str_learn_more">Learn more</string>
     <string name="str_join_our_telegram_community">Join our Telegram commnity</string>
     <string name="str_follow_us_on_twitter">Follow us on Twitter</string>
@@ -448,7 +448,7 @@
     <string name="str_report_id">Report Id</string>
     <string name="str_copied_to_clipboard">Copied to Clipboard</string>
     <string name="str_auto_reply_off_turn_on">Auto-reply is off, please turn it On</string>
-    <string name="str_please_change_contact_list_everyone">Please change your contact option to send auto-reply to Everyone or add WhatsAuto to your contact list.</string>
+    <string name="str_please_change_contact_list_everyone">Please change your contact option to send auto-reply to Everyone or add WhatAuto to your contact list.</string>
     <string name="str_you_set_time_delay_wait">You have set a time delay for auto-reply, please wait for some time.</string>
     <string name="str_you_set_reply_once_turn_off_on">You have set an auto-reply to reply once, turn off and on auto-reply to send again.</string>
     <string name="str_no_reply_found_check_keyword">No reply message found, please check your incoming message keyword.</string>
@@ -463,7 +463,7 @@
     <string name="str_the_name_will_sent_as_reply">The name of the person sending you a message will be sent as a reply message.</string>
     <string name="str_first_name_sent_as_reply_message">The first name of the person sending you a message will be sent as a reply message.</string>
     <string name="str_last_name_sent_as_reply_message">The last name of the person sending you a message will be sent as a reply message.</string>
-    <string name="str_whatsauto_statistics">WhatsAuto Statistics</string>
+    <string name="str_WhatAuto_statistics">WhatAuto Statistics</string>
     <string name="str_total_auto_reply_messages_sent">Total auto-reply messages sent</string>
     <string name="str_do_you_want_to_save_statistics_message_pdf">Do you want to save this statistics messages as PDF?</string>
     <string name="str_pdf_saved_successfully">PDF saved successfully</string>
@@ -492,13 +492,13 @@
     <string name="str_message_copied_to_clipboard">Message copied to clipboard</string>
     <string name="str_live_sync">Live sync</string>
     <string name="str_live_sync_description">Messages will sync automatically when you add or change any data in your spreadsheet. The new changes will take effect only after the auto-reply is sent.</string>
-    <string name="str_whatsauto_assistant_help_fix_auto_reply_issue">Hi, I\'m your WhatsAuto assistant. I will help you fix your auto-reply issue. Please answer the questions below.</string>
+    <string name="str_WhatAuto_assistant_help_fix_auto_reply_issue">Hi, I\'m your WhatAuto assistant. I will help you fix your auto-reply issue. Please answer the questions below.</string>
     <string name="str_do_you_receive_message_notification_with_reply_button">Do you receive a notification for every incoming message from your messaging app with a reply button? Like the image below.</string>
     <string name="str_enable_messaging_app_notifications">Please go to your messaging app settings and enable notifications.\n\n1. Click the settings button below and find your messaging app and click on it. \n2. Then click the Notifications option in the app info screen. \n3. Enable show notifications.\n\nAuto-reply will work only if you get a notification from your messaging app.</string>
     <string name="str_did_you_try_test_reply_feature">Did you try the test reply feature in the app?\n\nPlease click the link below to go to the test reply feature in the app and send a test message to check the auto-reply.</string>
     <string name="str_check_it">Check it</string>
-    <string name="str_is_your_messaging_enabled_in_supported_apps">Is your messaging app is enabled in the supported apps in the WhatsAuto?\n\nPlease make sure your messaging app is enabled in the supported apps in WhatsAuto.</string>
-    <string name="str_go_to_notification_access_enable_disable_whatsauto">1. Click the notification access button below. \n2. Turn OFF and ON WhatsAuto in the notification access screen like the image below. \n3. Now test the auto-reply it should work now.</string>
+    <string name="str_is_your_messaging_enabled_in_supported_apps">Is your messaging app is enabled in the supported apps in the WhatAuto?\n\nPlease make sure your messaging app is enabled in the supported apps in WhatAuto.</string>
+    <string name="str_go_to_notification_access_enable_disable_WhatAuto">1. Click the notification access button below. \n2. Turn OFF and ON WhatAuto in the notification access screen like the image below. \n3. Now test the auto-reply it should work now.</string>
     <string name="str_one_time_payment">One time payment</string>
     <string name="str_send_reply_based_previous_message">Send a reply based on the previous reply message.</string>
     <string name="str_menu_reply">Menu Reply</string>
@@ -549,7 +549,7 @@
     <string name="str_premium_account">Premium Account</string>
     <string name="str_one_time_payment_pay_once_enjoy_lifetime_benefits">One time payment.\nPay once. Enjoy lifetime benefits.</string>
     <string name="str_premium_help">Premium help</string>
-    <string name="str_if_you_are_using_more_than_one_gmail_account">If you are using more than one Gmail account on your phone then please uninstall the WhatsAuto app and go to Play Store and choose the right Gmail account you purchased the premium and download the app again. Sometimes updating the app using the wrong Gmail account may lead to a free account.</string>
+    <string name="str_if_you_are_using_more_than_one_gmail_account">If you are using more than one Gmail account on your phone then please uninstall the WhatAuto app and go to Play Store and choose the right Gmail account you purchased the premium and download the app again. Sometimes updating the app using the wrong Gmail account may lead to a free account.</string>
     <string name="str_premium_benefits">Premium Benefits</string>
     <string name="str_premium_account_become_free_why">1. Why my premium account became free account?</string>
     <string name="str_paid_for_premium_but_account_still_free">2. I have paid for the premium but my account is still free, why?</string>
@@ -611,7 +611,7 @@
     <string name="str_auto_reply_take_care_incoming_message_turn_on">Auto-reply will take care of all your incoming messages, let\'s turn it on.</string>
     <string name="str_add_newline">Add Newline</string>
     <string name="str_separate_menu_message_menu_list_previous_option_new_line">Separate menu message, menu list, and previous menu option with a new line.</string>
-    <string name="str_if_you_problem_with_any_messaging_apps_below_or_contact_support">If you have a problem with any of the messaging apps listed below, please click on it. Otherwise, contact support@whatsauto.app.</string>
+    <string name="str_if_you_problem_with_any_messaging_apps_below_or_contact_support">If you have a problem with any of the messaging apps listed below, please click on it. Otherwise, contact support@whatsuto.app.</string>
     <string name="str_auto_reply_only_works_one_active_account_instagram">Auto-reply only works on one active Instagram account. If you have more than one account in your Instagram app, please remove the other account.</string>
     <string name="str_instagram" translatable="false">Instagram</string>
     <string name="str_new_spreadsheet">New Spreadsheet</string>
@@ -635,7 +635,7 @@
     <string name="str_0_messages_added">0 messages added</string>
     <string name="str_delete_my_account">Delete my account</string>
     <string name="str_deleting_your_account_will">Deleting your account will:</string>
-    <string name="str_delete_account_summary">- Delete your account from WhatsAuto.\n- Erase all your data in the app.</string>
+    <string name="str_delete_account_summary">- Delete your account from WhatAuto.\n- Erase all your data in the app.</string>
     <string name="str_deleting_account_please_wait">Deleting your account, please wait.</string>
     <string name="str_we_sad_see_you_leave_delete_account">We\'re sorry to see you leave. If you need any help, please contact us at support@whatsauto.app</string>
     <string name="str_security_reasons_sign_in_again">For security reasons, please sign-in again.</string>
@@ -695,11 +695,11 @@
     <string name="str_chatgpt_message_history">ChatGPT Message History</string>
     <string name="str_chatgpt_clear_history_confirm_desc">Are you sure you want to clear your ChatGPT history?</string>
     <string name="str_no_data_available_backup">No data is available to create a backup.</string>
-    <string name="str_backup_restore_whatsauto_account">Backup and restore your WhatsAuto.</string>
+    <string name="str_backup_restore_WhatAuto_account">Backup and restore your WhatAuto.</string>
     <string name="backup_to_phone">Backup to Phone</string>
     <string name="backup_to_cloud">Backup to Cloud</string>
     <string name="str_restore_successfull_reopen_app">Successfully restored. Close and reopen the app to see the restored data.</string>
-    <string name="your_app_data_is_successfully_backed_up">Your WhatsAuto app data has been successfully backed up</string>
+    <string name="your_app_data_is_successfully_backed_up">Your WhatAuto app data has been successfully backed up</string>
     <string name="str_auto_backup">Auto-Backup</string>
     <string name="auto_backup_desc">Auto-Backup Enabled: Your data will now be automatically backed up to your cloud storage every day at %s.</string>
     <string name="ads_privacy">Ads Privacy</string>
@@ -722,7 +722,7 @@
     <string name="sheet_name">Sheet Name</string>
     <string name="back">Back</string>
     <string name="trouble_access_token_signout_gmail_signin">Trouble obtaining an access token. Please sign out of your Gmail account, sign back in, and check again. If the issue persists, contact customer support at support@whatsauto.app.</string>
-    <string name="create_spreadsheet_info_hint">Spreadsheet created in Google Sheets. Now you can add new data or copy from another sheet in Google Sheets, and sync with WhatsAuto.</string>
+    <string name="create_spreadsheet_info_hint">Spreadsheet created in Google Sheets. Now you can add new data or copy from another sheet in Google Sheets, and sync with WhatAuto.</string>
     <string name="spreadsheet_created_successfully">Spreadsheet Created Successfully.</string>
     <string name="dialogflow_deprecated">Dialogflow is deprecated. Use AI Reply for better responses or configure Dialogflow on your server.</string>
     <string name="dialogflow_reply_tag" translatable="false">(Dialogflow reply)</string>
