@@ -10,6 +10,7 @@
     <string name="admob_native_auto_reply_text" translatable="false">ca-app-pub-9510828685498412/2427123067</string>
     <string name="admob_chatgpt_add_text_prompt" translatable="false">ca-app-pub-9510828685498412/3563631091</string>
     <string name="admob_rewarded_interstitial" translatable="false">ca-app-pub-9510828685498412/4744663784</string>
+    <string name="admob_interstitial_video" translatable="false">ca-app-pub-9510828685498412/6780906745</string>
 
     <!--Notification channels -->
     <string name="notification_title_auto_reply">Auto reply</string>
@@ -675,19 +676,18 @@
     <string name="str_ai_reply_api_key_empty_error">Please enter your ChatGPT API key</string>
     <string name="str_ai_reply_model_empty_error">Please choose the Model</string>
     <string name="str_chatgpt_reply_tag" translatable="false">(ChatGPT)</string>
-    <string name="str_send_reply_using_chatgpt">Send a reply using ChatGPT</string>
-    <string name="str_chatgpt_new_message_wait_message">Please wait for new messages, as the previous ChatGPT message is still being processed.</string>
+    <string name="str_send_reply_powered_chatgpt">Send a reply powered by ChatGPT</string>
+    <string name="str_chatgpt_new_message_wait_message">Please wait for new responses, as the previous ChatGPT message is still being processed.</string>
     <string name="str_clear_api_key">Clear API Key</string>
     <string name="str_learn_how_to_use">Learn how to use</string>
     <string name="str_train_chatGPT">Train ChatGPT</string>
     <string name="str_train_chatgpt_desc">Make ChatGPT respond in a customized way by training it with your own data or a text prompt</string>
     <string name="str_text_prompt">Text prompt</string>
-    <string name="str_add_text_prompt">Add text prompt</string>
     <string name="str_chatgpt_text_prompt_helper">You can add a text prompt such as \"You are a helpful assistant,\" followed by information about yourself or your company to allow ChatGPT to respond accordingly.</string>
     <string name="str_show_example">Show example</string>
     <string name="str_chatgpt_example_text_prompt">Act as a personal assistant for our vegan ice cream parlor, located in the United States, and assist our valued customers.\n\nOur hours of operation are Monday to Friday, from 9am to 5pm.\n\nHere is our menu and prices:\n\n- Classic Vanilla ($5)\n- Chocolate ($5)\n- Strawberry Swirl ($5.5)\n- Raspberry Sorbet ($5.5)\n\nWhether you’re vegan or simply looking for a healthier alternative to traditional ice cream, our all-vegan ice cream is made with organic, non-GMO, and fair-trade ingredients. We take pride in offering high-quality ice cream at an affordable price. If you have any questions, please let us know, and we\'ll be happy to assist you!</string>
     <string name="str_visit_openai_billing_add_payment">Please visit the OpenAI billing page and add a payment method.</string>
-    <string name="str_clear_chatgpt_messages">Clear ChatGPT Messages</string>
+    <string name="str_clear_chatgpt_history">Clear ChatGPT History</string>
     <string name="str_total_chatgpt_messages">Total ChatGPT Messages</string>
     <string name="str_maximum_number_chatgpt_pref_desc">Maximum number of messages that ChatGPT should remember per chat</string>
     <string name="str_ai_reply_settings">AI Reply Settings</string>
@@ -746,4 +746,38 @@
     <string name="one_time_purchase">One Time Purchase</string>
     <string name="expires_on_january_1_2025">Expires on January 1, 2025</string>
     <string name="premium_congrats_dialog_message">Thank you for subscribing to Whatauto Premium! You now have full access to all the exclusive features. Enjoy an enhanced experience!</string>
+    <string name="switch_to_ai_name">Switch to</string>
+    <string name="powered_by_gemini">Powered by Gemini</string>
+    <string name="connect_google_gemini_to_send_ai_reply">Connect Google\'s Gemini to send an artificial intelligence-based reply.</string>
+    <string name="chatgpt_settings">ChatGPT Settings</string>
+    <string name="api_key_required">API key is required</string>
+    <string name="gemini_tag" translatable="false">(Gemini)</string>
+    <string name="customize_gemini_ai_preferred_answers">Customize Gemini AI responses. Use your prompts for preferred answers.</string>
+    <string name="add_text_prompts_to_personalize_gemini_ai">Add text prompts to personalize Gemini AI responses. Get answers that match your preferences and make every chat unique and personal!</string>
+    <string name="gemini_text_prompt_helper">Add a text prompt like \"You are a helpful assistant,\" followed by details about yourself or your company, to personalize Gemini AI responses.</string>
+    <string name="personalize_gemini">Personalize Gemini</string>
+    <string name="chatgpt_text_prompt">ChatGPT Text Prompt</string>
+    <string name="gemini_text_prompt">Gemini Text Prompt</string>
+    <string name="reset_chatgpt_configuration_confirmation">Are you sure you want to reset ChatGPT configuration?</string>
+    <string name="reset_gemini_configuration_confirmation">Are you sure you want to reset Gemini configuration?</string>
+    <string name="gemini_settings">Gemini Settings</string>
+    <string name="gemini_chat_history">Gemini Chat History</string>
+    <string name="how_many_messages_gemini_remember">How many messages should Gemini remember per chat?</string>
+    <string name="clear_gemini_chat_history_confirm_dialog">Are you sure you want to clear the Gemini chat history?</string>
+    <string name="clear_history">Clear History</string>
+    <string name="message_history_cleared_successfully">Message history cleared successfully</string>
+    <string name="watch_ad">Watch Ad</string>
+    <string name="loading">Loading...</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="saving_chatgpt_configuration">Saving ChatGPT configuration.</string>
+    <string name="saving_gemini_configuration">Saving Gemini configuration.</string>
+    <string name="str_gemini_new_message_wait_message">Please wait for new responses, as the previous Gemini message is still being processed.</string>
+    <string name="gemini_parameters">Gemini Parameters</string>
+    <string name="configure_parameters_summary">Configure parameters to control the model\'s responses.</string>
+    <string name="reset_gemini_parameters">Reset Gemini parameters</string>
+    <string name="clear_gemini_chat_history">Clear Gemini Chat History</string>
+    <string name="send_a_reply_powered_by_gemini">Send a reply powered by Gemini</string>
+    <string name="if_gemini_response_not_accurate_reset_history">If Gemini\'s responses aren\'t accurate, reset the chat history.</string>
+    <string name="if_chatgpt_responses_not_accurate_reset_history">If ChatGPT responses aren\'t accurate, reset the chat history.</string>
+    <string name="str_title">title</string>
 </resources>
